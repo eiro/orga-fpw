@@ -4,7 +4,10 @@ A check {
     FEC et CIARUS pour l'hebergement
     Flyers, affiches, t-shirts {
 	quantités ?
-	fournisseur ?
+	fournisseur {
+	    eiro: contact anneh(SYN), matts(SYN)?
+	    afranke: fournisseurs rmll ? 
+	}
 	graphiste ?
 	diffusion {
 	    affichage local
@@ -12,3 +15,5 @@ A check {
 	}
     }
 }
+
+
