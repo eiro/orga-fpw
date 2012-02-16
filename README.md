@@ -8,12 +8,33 @@ Epitech.
 Notre contact est Lionel Brosius.
 Plan d'orga au sein du bâtiment, coût de location ?
 
+# Public
+
+Nombre de personnes visés ?
+Qui/quand : mongueurs, étudiants, informaticiens en général ? 
+
+# Thématique
+
+"Rencontrer, Apprendre, Jouer, Créer" ??
+
+
+# Format
+
+Vendredi am/pm conférence plus larges ?
+-> "au delà des gens juste intéressé par perl. tu cites nagios, ça va peut être amener
+des admin sys qui veulent un peu voir ça etc"
+
+moins de confs et plus de "on se pause, on discute, on code, je peux te montrer ca" 
+- des hackrooms 
+- des classrooms 
+- des pauses cafés de 30mn 
+
 # Hébergement
 
 A priori au CIARUS, éventuellement au FEC.
 Où en sont les contacts ?
 Combien de lits à réserver ?
-Comment ça va se passer ? On fait l'intermédiaire ou pas ?
+Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun qui supervise de toute façon.
 
 # Communication
 ## Flyers, affiches, t-shirts
