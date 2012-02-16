@@ -12,6 +12,8 @@ Plan d'orga au sein du bâtiment, coût de location ?
 
 A priori au CIARUS, éventuellement au FEC.
 Où en sont les contacts ?
+Combien de lits à réserver ?
+Comment ça va se passer ? On fait l'intermédiaire ou pas ?
 
 # Communication
 ## Flyers, affiches, t-shirts
@@ -69,10 +71,6 @@ on demande à qui ? combien de dossier à constituer ?
 ### transport des personnalités
 
 qui, d'où, que prend on en charge ? déjà contactés ?
-
-### hébergement
-
-qui, combien de personnes, où ? FEC et CIARUS : contactés déjà ?
 
 ### bouffe
 
