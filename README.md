@@ -1,6 +1,17 @@
+# Date
+
+Vendredi 29 et samedi 30 juin, hackathon le dimanche 1er juillet.
+
+# Lieu
+
+Epitech.
+Notre contact est Lionel Brosius.
+Plan d'orga au sein du bâtiment, coût de location ?
+
 # Hébergement
 
 A priori au CIARUS, éventuellement au FEC.
+Où en sont les contacts ?
 
 # Communication
 ## Flyers, affiches, t-shirts
@@ -22,11 +33,6 @@ Emenems a ça dans ses cartons.
  * envoi affiches ( paris, lyon, ... ?) 
 
 # Questions en vracs par Delphine 
-## Date
-
-## Lieu
-
-Epitech, contact ? plan d'orga au sein du bâtiment, coût de location ?
 
 ## Rétro-planning
 
