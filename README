@@ -8,7 +8,9 @@ A check {
 	    eiro: contact anneh(SYN), matts(SYN)?
 	    afranke: fournisseurs rmll ? 
 	}
-	graphiste ?
+	graphiste {
+	    Emenems (ACK)
+	}
 	diffusion {
 	    affichage local
 	    envoi affiches ( paris, lyon, ... ?) 
