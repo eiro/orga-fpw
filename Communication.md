@@ -1,0 +1,34 @@
+Plusieurs angles de com. possibles: 
+
+# Mode chauvin
+
+Prendre des elements visuels du monde perl (j'aime bien l'onion de la perl fundation ou le logo des mongueurs de perl), des elements visuels de l'alsace et mixer le tout. exemples simples:
+
+- le coq mongueur sur le clochet de la cathédrale 
+- le coq mongueur avec un ruban alsacien
+- un verre de bierre ou de schnaps frappé du logo des mongueurs
+- ....
+
+# Mode serieux
+
+le format de cette edition (bientot la doc sur le wiki) peut se décliner en 4 mots-clefs qui pourraient se retrouver en plus d'un simple "Journées perl 2012"
+
+"Rencontrer, Apprendre, Jouer, Créer" 
+
+Je tiens a l'ordre:
+
+Rencontrer en premier parceque c'est le plus important a mes yeux (rencontrer perl pour certains mais aussi rencontrer la communauté qui est une des grandes forces de perl).
+Apprendre et Jouer me semblent etre le bon ordre Chronologique. 
+Créer a la fin parceque c'est la finalité.
+
+# Mode décalé
+
+Depuis que je preche perl, j'ai constaté qu'une grosse partie de la mauvaise image de perl est due a des gens qui ont connu perl4 ou les debuts de perl5 puis ont perdu ce langage de vue. Ils n'ont pas vu toutes les evolutions arrivées avec Moose, perl 5.10 et supérieur ... 
+
+Ca m'a fait penser a la serie Battlestar galactica ou les humains expedient des toasters mal finis dans l'espace, les perdent de vue un moment et voient revenir une blonde pulpeuse qui a fait le replacement pour tout peter. je ne sais pas si nous pouvons nous inspirer de ca, si la serie est assez populaire pour qu'on ne tourne pas a la private joke.
+
+mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une peruque blonde pour faire Starbuk ? non ? ca fait rire que moi ? 
+
+# un mix de tout ca ? 
+
+
