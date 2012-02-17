@@ -4,16 +4,14 @@ sur les debian derivative: aptitude install git-core
 
 sur arch, il me semble que c'etait pacman -Syu git
 
+sur Mandriva, Mageia : urpmi git
+
+sur Red Hat, Fedora: yum install git   (ça devrait le faire)
+
 sur les autres je sais pas :)
 
 
 # la premiere fois
-
-
-Avoir une version locale des documents
-
-git clone git@github.com:eiro/jp12orga.git
-
 
 
 Avoir une version locale des documents
@@ -27,6 +25,7 @@ cd jp12orga
 Editer un fichier 
 
 vim README.md
+
 git add README.md
 
 Expliquer en quoi la modification a consisté
@@ -41,4 +40,6 @@ git push
 
 c'est la meme sauf que la premiere ligne, celle avec git clone, devient 
 
-git push
+git pull
+
+

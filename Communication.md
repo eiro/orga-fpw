@@ -27,7 +27,7 @@ Depuis que je preche perl, j'ai constaté qu'une grosse partie de la mauvaise im
 
 Ca m'a fait penser a la serie Battlestar galactica ou les humains expedient des toasters mal finis dans l'espace, les perdent de vue un moment et voient revenir une blonde pulpeuse qui a fait le replacement pour tout peter. je ne sais pas si nous pouvons nous inspirer de ca, si la serie est assez populaire pour qu'on ne tourne pas a la private joke.
 
-mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une peruque blonde pour faire Starbuk ? non ? ca fait rire que moi ? 
+mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une peruque blonde pour faire Starbuk ? non ? ca fait rire que moi ?  [elbeho] : oh oui oh oui ! avec 6 aussi sur l'affiche
 
 # un mix de tout ca ? 
 

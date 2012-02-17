@@ -19,8 +19,10 @@ Plan d'orga au sein du bâtiment, coût de location ?
 
 # Public
 
-Nombre de personnes visés ?
+Nombre de personnes visés ? [elbeho] sur Paris, on a généralement eu 80 pers/jour. En province de 40 à 60 pers/jour
+
 Qui/quand : mongueurs, étudiants, informaticiens en général ? 
+
 
 # Thématique
 
@@ -43,17 +45,23 @@ moins de confs et plus de "on se pause, on discute, on code, je peux te montrer 
 A priori au CIARUS, éventuellement au FEC.
 Où en sont les contacts ?
 Combien de lits à réserver ?
-Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun qui supervise de toute façon.
+Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun qui supervise de toute façon. => nommer le "qqn" 
 
 # Communication
+
+[elbeho] Identifiez un monsieur/madame/mademoiselle "Communication" dont le rôle sera soit de communiquer, soit de s'assurer que les comm ont été faites. Il y a un compte twitter et identi.ca journeesperl . Le hashtag usuel est #fpw
+
+
 ## Flyers, affiches, t-shirts
 
-Quelles quantités ?
+ * Quelles quantités ?
+ * [elbeho] fournisseur : comoprint (www.comosol.com), les Mongueurs y ont leurs habitudes. Ils bossent bien, vite, mais leur site est à chier.
 
 ### Fournisseur
 
  * eiro: contact anneh(SYN), matts(SYN)?
  * afranke: voir fournisseurs rmll
+ * elbeho : GraphyWest (celui des années précédentes) (ce n'est qu'une propal, pas une obligation)
 
 ### Graphiste
 
@@ -64,16 +72,36 @@ Emenems a ça dans ses cartons.
  * affichage local
  * envoi affiches ( paris, lyon, ... ?) 
 
+[elbeho] notre point faible les années précédentes :-(
+
+## Le site web
+
+ * [elbeho] il me semble urgent d'avoir un site web en ligne, même incomplet avec : le lieu, la date. Ce n'est pas grave si le look n'est pas définitif. Ce n'est ps grave si les inscriptions ne sont pas ouvertes, mais il faut etre visible.
+ * Le site de test est : http://test.mongueurs.net/fpw2012/
+ * Le site de prod sera : http://journeesperl.fr/ (http://journeesperl.fr/2012 , http://perlworkshop.fr/ , http://perlworkshop.fr/2012)
+ * Act (le système qui est dessous) gère les inscriptions (même si elles ne sont pas obligatoires, ça donne une idée du nb de personnes attendues), les talks, des news, un wiki, des rôles (admin, tresorier, news admin, wiki admin...)
+
+
+
 # Questions en vracs par Delphine 
 
 ## Rétro-planning
 
 Ce serait pas mal, avec des deadlines, etc.
 
+[elbeho] j'ai organisé les 3 dernieres editions. On l'a toujours voulu, on ne l'a jamais vraiment fait. Néanmoins, on a essayé d'avoir le site web en ligne au début de l'année, pour les T-shirts par GraphyWest, pour pas être stressé il faut leur fournir le logo un mois avant le jour J.
+
+[elbeho] oublié en 2011 : l'après-conf : remercier les gens, monter les videos et les publier, faire un article dans GLMF (ou ailleurs), faire un postmortem
+
 ## Participants à l'orga
 
 Qui ? qui fait quoi, qui apporte quoi ? clarifier un peu les chose je pense,
 notamment clarifier le rôle des mongueurs de perl et constituer un CA des jp12
+
+[elbeho] 
+ * il existe une liste fpw@mongueurs.net, pour s'y inscrire : http://listes.mongueurs.net/mailman/listinfo/fpw
+ * Les Mongueurs apportent leur compte en banque, paient les fournisseurs, encaissent les sponsors, remboursent les gens qui ont payé directement "parce qu'il le fallait" (merci de conserver factures, tickets de caisse)
+
 
 ## Organisation
 
@@ -88,15 +116,27 @@ on peut les avoirs ?
 de plus, connaitre le déroulement des dernières jp, pour ne rien oublier 
 et s'en inspirer, ne pas commettre les même erreures, etc
 
+[elbeho] si je merde pas avec git, j'ai ajoute le .ods avec les bilans financiers des précédentes Journées Perl
+
 ### budget prev
 
 super utile d'avoir le bilan financier des jp11
 indispensable pour les dossiers de subventions
 dépend des différents coût. plus il est précis, plus il
 
+[elbeho] pour info, comme eiro ne m'a pas fourni beaucoup de détail, j'ai budgeté 2000 € de dépenses et 2500 € de recettes. Ce n'est qu'indicatif. C'est basé sur les précédentes Journées Perl et sur le sens du vent :-)
+
 ### subventions
 
 on demande à qui ? combien de dossier à constituer ?
+
+[elbeho] 
+ * les Mongueurs n'ont pas de code SIRET, je crois que c'est un truc nécessaire pour les subventions publiques. On va y travailler (au cas où).
+ * Il y a déjà un sponsor identifié : teclib' qui met 500 € (facture envoyée), Booking.com a pris contact sur la liste FPW pour dire que ça les intéressait de sponsoriser. eiro devait répondre.
+ * linkfluence, weborama vont probablement s'y mettre aussi.
+ * Avoir différents niveaux de sponsoring : pour 200 €, juste sur le site, pour 500 € sur le site et les affiches, pour 1000 € sur le site, les affiches, 5 min de présentation à l'ouverture de la conf, 1500 € un stand... par exemple (eviter la formule "de 200 à 500 €", c'est chiant à gérer).
+ * Les sponsors sont plus généreux qu'on ne peut le croire. Demandez 1000 € si on vous pose la question, accepter 200 € si la structure ne peut/veut pas payer 1000.
+
 
 ### transport des personnalités
 
@@ -105,4 +145,6 @@ qui, d'où, que prend on en charge ? déjà contactés ?
 ### bouffe
 
 durant l'évènement, on mange, on boit -> quoi, fournisseurs ?
+
+[elbeho] les Mongueurs disposent (chez moi) de 3 thermos de 3 litres (5 l ?) avec pompe qui peuvent servir pour du café,de l'eau pour du thé (on a utilisé 2 thermos pour le café, 1 uniquement pour de l'eau chaude jusqu'à présent pour éviter les mix de goûts).
 
