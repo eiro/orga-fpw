@@ -23,7 +23,7 @@ mais aussi ...
 Jean-André Santoni
 Alexandre Franck (pour LUG Strasbourg)
 Lionel Brosius (pour Epitech)
-IRC: elbeho (pour CA mongueurs)
+Laurent Boivin (Trésorier des Mongueurs, elbeho sur irc, elbeho@mongueurs.net)
 
 # Autres contacts
 
