@@ -1,9 +1,24 @@
+# installer git 
+
+sur les debian derivative: aptitude install git-core
+
+sur arch, il me semble que c'etait pacman -Syu git
+
+sur les autres je sais pas :)
+
+
 # la premiere fois
 
 
 Avoir une version locale des documents
 
-git clone git@github.com:[tonid]/jp12orga.git
+git clone git@github.com:eiro/jp12orga.git
+
+
+
+Avoir une version locale des documents
+
+git clone git@github.com:eiro/jp12orga.git
 
 Entrer dans le repertoire de travail
 
