@@ -7,13 +7,6 @@ Vendredi 29 et samedi 30 juin, hackathon le dimanche 1er juillet.
 Epitech.
 Notre contact est Lionel Brosius.
 Marc prend RDV avec lui pour le reperage:
-- nombre de salles dispos ? 
-- systemes de videoprojection ? 
-- systemes d'enregistrement video ? 
-- espace stand (SBY booking)
-- pause café ?
-- vestiaire ?
-- bbq dans le jardin ?
 
 Plan d'orga au sein du bâtiment, coût de location ?
 
