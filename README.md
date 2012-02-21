@@ -13,6 +13,7 @@ Plan d'orga au sein du bâtiment, coût de location ?
 # Public
 
 Nombre de personnes visés ? [elbeho] sur Paris, on a généralement eu 80 pers/jour. En province de 40 à 60 pers/jour
+[Delphine] donc max 120pers sur les deux jours
 
 Qui/quand : mongueurs, étudiants, informaticiens en général ? 
 
@@ -50,6 +51,7 @@ Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun q
 
  * Quelles quantités ?
  * [elbeho] fournisseur : comoprint (www.comosol.com), les Mongueurs y ont leurs habitudes. Ils bossent bien, vite, mais leur site est à chier.
+ * [Delphine] et pour les t-shirts ?
 
 ### Fournisseur
 
