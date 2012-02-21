@@ -2,8 +2,8 @@
 
 Delphine Bottarlini
 pour:
- * correspondante AIUS
- * comunication etudiante
+ * correspondante Aius
+ * comunication étudiante
 Mail: 		delphine(point)bottarlini(at)gmail(point)com
 Tel.: 		06.76.76.45.25
 Github: 	meechiante
@@ -11,7 +11,7 @@ IRC: 		delphine
 
 Marc Chantreux
 pour:
- * correspondante mongueurs
+ * correspondant mongueurs
  * communication communautaire
 Mail : 		khatar(at)phear(point)org
 Tel:            03.68.85.16.71

@@ -42,7 +42,8 @@ Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun q
 
 # Communication
 
-[elbeho] Identifiez un monsieur/madame/mademoiselle "Communication" dont le rôle sera soit de communiquer, soit de s'assurer que les comm ont été faites. Il y a un compte twitter et identi.ca journeesperl . Le hashtag usuel est #fpw
+[elbeho] Identifiez un monsieur/madame/mademoiselle "Communication" dont le rôle sera soit de communiquer, soit de s'assurer que les comm ont été faites. Il y a un compte twitter et identi.ca journeesperl . Le hashtag usuel est #fpw 
+[Delphine] je pense pas être la personne pour ça. Je suis plus orga dans l'ombre pour le moment.
 
 
 ## Flyers, affiches, t-shirts
@@ -84,7 +85,7 @@ Ce serait pas mal, avec des deadlines, etc.
 
 [elbeho] j'ai organisé les 3 dernieres editions. On l'a toujours voulu, on ne l'a jamais vraiment fait. Néanmoins, on a essayé d'avoir le site web en ligne au début de l'année, pour les T-shirts par GraphyWest, pour pas être stressé il faut leur fournir le logo un mois avant le jour J.
 
-[elbeho] oublié en 2011 : l'après-conf : remercier les gens, monter les videos et les publier, faire un article dans GLMF (ou ailleurs), faire un postmortem
+[elbeho] oublié en 2011 : l'après-conf : remercier les gens, monter les videos et les publier, faire un article dans GLMF (ou ailleurs), faire un postmortem [Delphine] FEEDBACKS!!! je milite pour cette cause. 
 
 ## Participants à l'orga
 
@@ -92,7 +93,7 @@ Qui ? qui fait quoi, qui apporte quoi ? clarifier un peu les chose je pense,
 notamment clarifier le rôle des mongueurs de perl et constituer un CA des jp12
 
 [elbeho] 
- * il existe une liste fpw@mongueurs.net, pour s'y inscrire : http://listes.mongueurs.net/mailman/listinfo/fpw
+ * il existe une liste fpw@mongueurs.net, pour s'y inscrire : http://listes.mongueurs.net/mailman/listinfo/fpw [Delphine] je me suis inscrite
  * Les Mongueurs apportent leur compte en banque, paient les fournisseurs, encaissent les sponsors, remboursent les gens qui ont payé directement "parce qu'il le fallait" (merci de conserver factures, tickets de caisse)
 
 
@@ -111,6 +112,7 @@ et s'en inspirer, ne pas commettre les même erreures, etc
 
 [elbeho] si je merde pas avec git, j'ai ajoute le .ods avec les bilans financiers des précédentes Journées Perl
 
+
 ### budget prev
 
 super utile d'avoir le bilan financier des jp11
@@ -118,6 +120,8 @@ indispensable pour les dossiers de subventions
 dépend des différents coût. plus il est précis, plus il
 
 [elbeho] pour info, comme eiro ne m'a pas fourni beaucoup de détail, j'ai budgeté 2000 € de dépenses et 2500 € de recettes. Ce n'est qu'indicatif. C'est basé sur les précédentes Journées Perl et sur le sens du vent :-)
+[Delphine] ouais effectivement c'est un peu le sens du vent. les bilans des précédentes éditions sont très changeants.
+Je peux peut-être faire qqchose de plus précis au fil du temps ? (j'ai un peu d'expérience en tant que Trésorière).
 
 ### subventions
 
@@ -130,6 +134,8 @@ on demande à qui ? combien de dossier à constituer ?
  * Avoir différents niveaux de sponsoring : pour 200 €, juste sur le site, pour 500 € sur le site et les affiches, pour 1000 € sur le site, les affiches, 5 min de présentation à l'ouverture de la conf, 1500 € un stand... par exemple (eviter la formule "de 200 à 500 €", c'est chiant à gérer).
  * Les sponsors sont plus généreux qu'on ne peut le croire. Demandez 1000 € si on vous pose la question, accepter 200 € si la structure ne peut/veut pas payer 1000.
 
+[Delphine] et pour d'autres sponsors ? on vise quel secteur d'activité/type de sociétés ?
+
 
 ### transport des personnalités
 
@@ -140,4 +146,5 @@ qui, d'où, que prend on en charge ? déjà contactés ?
 durant l'évènement, on mange, on boit -> quoi, fournisseurs ?
 
 [elbeho] les Mongueurs disposent (chez moi) de 3 thermos de 3 litres (5 l ?) avec pompe qui peuvent servir pour du café,de l'eau pour du thé (on a utilisé 2 thermos pour le café, 1 uniquement pour de l'eau chaude jusqu'à présent pour éviter les mix de goûts).
+[Delphine] Je peux emprunter sous caution un percolateur, ça pourrait le faire ?
 
