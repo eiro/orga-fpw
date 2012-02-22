@@ -9,6 +9,11 @@ Prendre des elements visuels du monde perl (j'aime bien l'onion de la perl funda
 - un verre de bière ou de schnaps frappé du logo des mongueurs
 - ....
 
+perl foundation : http://www.perlfoundation.org/
+logo : http://perldoc.perl.org/static/tpf/header.png
+les mongueurs : http://www.mongueurs.net/
+http://www.mongueurs.net/pix/logo_100x100_idx.png attention, conditions d'utilisations ! http://www.mongueurs.net/association/logo.html
+
 # Mode serieux
 
 le format de cette edition (bientot la doc sur le wiki) peut se décliner en 4 mots-clefs qui pourraient se retrouver en plus d'un simple "Journées perl 2012"
@@ -36,6 +41,7 @@ mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une p
 ## WHO ?
 
 [Delphine] On a un graphiste ?
+[Manu] J'ai un contact, je vais lui transmettre les idées.
 
 
 
