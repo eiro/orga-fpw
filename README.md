@@ -17,11 +17,9 @@ Nombre de personnes visés ? [elbeho] sur Paris, on a généralement eu 80 pers/
 
 Qui/quand : mongueurs, étudiants, informaticiens en général ? 
 
-
 # Thématique
 
 "Rencontrer, Apprendre, Jouer, Créer" ??
-
 
 # Format
 
@@ -45,7 +43,6 @@ Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun q
 
 [elbeho] Identifiez un monsieur/madame/mademoiselle "Communication" dont le rôle sera soit de communiquer, soit de s'assurer que les comm ont été faites. Il y a un compte twitter et identi.ca journeesperl . Le hashtag usuel est #fpw 
 [Delphine] je pense pas être la personne pour ça. Je suis plus orga dans l'ombre pour le moment.
-
 
 ## Flyers, affiches, t-shirts
 
@@ -77,8 +74,6 @@ Emenems a ça dans ses cartons.
  * Le site de prod sera : http://journeesperl.fr/ (http://journeesperl.fr/2012 , http://perlworkshop.fr/ , http://perlworkshop.fr/2012)
  * Act (le système qui est dessous) gère les inscriptions (même si elles ne sont pas obligatoires, ça donne une idée du nb de personnes attendues), les talks, des news, un wiki, des rôles (admin, tresorier, news admin, wiki admin...)
 
-
-
 # Questions en vracs par Delphine 
 
 ## Rétro-planning
@@ -94,10 +89,8 @@ Ce serait pas mal, avec des deadlines, etc.
 Qui ? qui fait quoi, qui apporte quoi ? clarifier un peu les chose je pense,
 notamment clarifier le rôle des mongueurs de perl et constituer un CA des jp12
 
-[elbeho] 
- * il existe une liste fpw@mongueurs.net, pour s'y inscrire : http://listes.mongueurs.net/mailman/listinfo/fpw [Delphine] je me suis inscrite
- * Les Mongueurs apportent leur compte en banque, paient les fournisseurs, encaissent les sponsors, remboursent les gens qui ont payé directement "parce qu'il le fallait" (merci de conserver factures, tickets de caisse)
-
+[elbeho] il existe une liste fpw@mongueurs.net, pour s'y inscrire : http://listes.mongueurs.net/mailman/listinfo/fpw
+[Delphine] je me suis inscrite
 
 ## Organisation
 
@@ -106,38 +99,11 @@ git ? wiki ? de manière général, avant même le retro-planning, définir les 
 
 ## jp11
 
-### bilan financier/moral
+### bilan moral
 
-on peut les avoirs ?
+on peut l'avoir ?
 de plus, connaitre le déroulement des dernières jp, pour ne rien oublier 
 et s'en inspirer, ne pas commettre les même erreures, etc
-
-[elbeho] si je merde pas avec git, j'ai ajoute le .ods avec les bilans financiers des précédentes Journées Perl
-
-
-### budget prev
-
-super utile d'avoir le bilan financier des jp11
-indispensable pour les dossiers de subventions
-dépend des différents coût. plus il est précis, plus il
-
-[elbeho] pour info, comme eiro ne m'a pas fourni beaucoup de détail, j'ai budgeté 2000 € de dépenses et 2500 € de recettes. Ce n'est qu'indicatif. C'est basé sur les précédentes Journées Perl et sur le sens du vent :-)
-[Delphine] ouais effectivement c'est un peu le sens du vent. les bilans des précédentes éditions sont très changeants.
-Je peux peut-être faire qqchose de plus précis au fil du temps ? (j'ai un peu d'expérience en tant que Trésorière).
-
-### subventions
-
-on demande à qui ? combien de dossier à constituer ?
-
-[elbeho] 
- * les Mongueurs n'ont pas de code SIRET, je crois que c'est un truc nécessaire pour les subventions publiques. On va y travailler (au cas où).
- * Il y a déjà un sponsor identifié : teclib' qui met 500 € (facture envoyée), Booking.com a pris contact sur la liste FPW pour dire que ça les intéressait de sponsoriser. eiro devait répondre.
- * linkfluence, weborama vont probablement s'y mettre aussi.
- * Avoir différents niveaux de sponsoring : pour 200 €, juste sur le site, pour 500 € sur le site et les affiches, pour 1000 € sur le site, les affiches, 5 min de présentation à l'ouverture de la conf, 1500 € un stand... par exemple (eviter la formule "de 200 à 500 €", c'est chiant à gérer).
- * Les sponsors sont plus généreux qu'on ne peut le croire. Demandez 1000 € si on vous pose la question, accepter 200 € si la structure ne peut/veut pas payer 1000.
-
-[Delphine] et pour d'autres sponsors ? on vise quel secteur d'activité/type de sociétés ?
-
 
 ### transport des personnalités
 
