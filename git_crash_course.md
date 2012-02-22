@@ -32,6 +32,8 @@ Expliquer en quoi la modification a consisté
 
 git commit -m "J'ai mis des choses dedans"
 
+en essayant de mettre un message significati, plutôt "Fiche contact Jean Dupond" que "Mise à jour contacts"
+
 Partager une nouvelle version de travail avec les autres membres
 
 git push
