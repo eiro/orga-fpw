@@ -29,9 +29,9 @@ IRC:    	afranke
 
 Emmanuel Jacquet
 pour:
- * Flammekueche connection
-Mail:
-Tel.:
+ * Flammekueche connection, ADEC
+Mail:     manu(at)formidable(tiret)inc(point)net
+Tel.:     06.82.08.25.20
 Github: 	FormidableInc
 IRC:    	Emenems
 
