@@ -49,6 +49,7 @@ Comment ça va se passer ? On fait l'intermédiaire ou pas ? -> faudra qqlun q
  * Quelles quantités ?
  * [elbeho] fournisseur : comoprint (www.comosol.com), les Mongueurs y ont leurs habitudes. Ils bossent bien, vite, mais leur site est à chier.
  * [Delphine] et pour les t-shirts ?
+ * [elbeho] T-shirts : GraphyWest - prévoir 3 semaines-1 mois entre la 1ère fourniture du logo et la réception des T-shirts
 
 ### Fournisseur
 
@@ -84,6 +85,8 @@ Ce serait pas mal, avec des deadlines, etc.
 
 [elbeho] oublié en 2011 : l'après-conf : remercier les gens, monter les videos et les publier, faire un article dans GLMF (ou ailleurs), faire un postmortem [Delphine] FEEDBACKS!!! je milite pour cette cause. 
 
+[elbeho] Tout arrive : retro-planing.md :-) , once again, juste une propale basée sur mes antécédents
+
 ## Participants à l'orga
 
 Qui ? qui fait quoi, qui apporte quoi ? clarifier un peu les chose je pense,
@@ -115,4 +118,5 @@ durant l'évènement, on mange, on boit -> quoi, fournisseurs ?
 
 [elbeho] les Mongueurs disposent (chez moi) de 3 thermos de 3 litres (5 l ?) avec pompe qui peuvent servir pour du café,de l'eau pour du thé (on a utilisé 2 thermos pour le café, 1 uniquement pour de l'eau chaude jusqu'à présent pour éviter les mix de goûts).
 [Delphine] Je peux emprunter sous caution un percolateur, ça pourrait le faire ?
+[elbeho] Il faut un truc qui permet de servir pas mal de cafés en peu de temps : une Nespresso ne ferait pas l'affaire (snif), je peux amener une cafetière (mais ce serait mieux si elle venait de Strasbourg) (punaise, je vais encore arriver en mode mulet!!!!)
 
