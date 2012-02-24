@@ -1,3 +1,9 @@
+# todo
+- Logo
+- Site web (actuellement ici http://test.mongueurs.net/fpw2012/)
+- Affiche (format A3 mini)
+- Flyers
+
 Plusieurs angles de com. possibles: 
 
 # Mode chauvin
