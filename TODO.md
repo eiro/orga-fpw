@@ -12,7 +12,7 @@
 - point sponsor avec laurent: qui contacter? état des contacts!
 - mettre la pression a manu pour la partie graphique (t-shirts, flyers, affichage)
 - mettre le feu a valentin pour la partie haskell -> buzzing de leur coté, cours, ...
-- relance josette pour savoir si elle a deja son billet d'avion (il faut la récuperer pour lui eviter de trimbaler ses bouquins)
+- relance josette pour savoir si elle a deja son billet d'avion (il faut la récuperer pour lui eviter de trimbaler ses bouquins) [elbeho] en général, elle envoie ses bouquins à part (y en a une palette quand même). Je pense qu'il faut trouver un contact à qui les adresser directement à l'Epitech (et prevoir de quoi les trimballer du lieu de stockage au stand, si c'est à plus de 20m).
 
 # Laurent
 
@@ -35,6 +35,5 @@
 [manu] : je propose une réunion réelle ou virtuelle assez vite pour présenter tout le monde :)
 [delphine] +1
 [marc] +1: je propose qu'on laisse nos dispos sur irc. si ca vous branche on peut fair ca chez moi (vendenheim) samedi 3 mars pm: je ferais des cookies et y'aura du café. et du net pour elbeho en skype :)
-[elbeho] : sur IRC si vous souhaitez ma présence, à partir de 21h30. Votre jour sera le mien (euh...). Mais si vous ne vous êtes pas encore vus, en faire une IRL asap me semble une excellente idée (vous me raconterez... ou pas)
-
+[elbeho] : OK pour moi samedi 3 via Skype (pour le café je peux m'arranger, pour les cookies... zut-euh !). Quelle heure ? ATTENTION : il faut quand même avancer d'ici là.
 
