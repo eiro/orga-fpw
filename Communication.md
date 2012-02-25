@@ -1,3 +1,9 @@
+# todo
+- Logo
+- Site web (actuellement ici http://test.mongueurs.net/fpw2012/)
+- Affiche (format A3 mini)
+- Flyers
+
 Plusieurs angles de com. possibles: 
 
 # Mode chauvin
@@ -13,6 +19,8 @@ perl foundation : http://www.perlfoundation.org/
 logo : http://perldoc.perl.org/static/tpf/header.png
 les mongueurs : http://www.mongueurs.net/
 http://www.mongueurs.net/pix/logo_100x100_idx.png attention, conditions d'utilisations ! http://www.mongueurs.net/association/logo.html
+
+[elbeho] conditions d'utilisation du logo "coq" : c'est bon, c'est les Journées Perl quand même
 
 # Mode serieux
 
@@ -42,6 +50,19 @@ mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une p
 
 [Delphine] On a un graphiste ?
 [Manu] J'ai un contact, je vais lui transmettre les idées.
+
+# Les canaux de comm'
+
+ * le site web http://journeesperl.fr (les News)
+ * twitter, compte journeesperl
+ * identi.ca, compte journeesperl
+ * mongueurs.typepad.com
+ * listes de diff perl@mongueurs.net, adherents@mongueurs.net
+ * programmez.com
+ * developpez.com
+ * GLMF
+ * [insert your channel here]
+
 
 
 

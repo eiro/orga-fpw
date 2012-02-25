@@ -14,3 +14,5 @@
 
 [manu] : je propose une réunion réelle ou virtuelle assez vite pour présenter tout le monde :)
 
+[elbeho] : sur IRC si vous souhaitez ma présence, à partir de 21h30. Votre jour sera le mien (euh...). Mais si vous ne vous êtes pas encore vus, en faire une IRL asap me semble une excellente idée (vous me raconterez... ou pas)
+
