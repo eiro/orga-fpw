@@ -15,16 +15,20 @@ Les mises à jour sont visibles dès la sauvegarde du fichier concerné (et un r
 Le site de prod est accessible via un dépôt Subversion. Le commit bit est à demander à Maddingue.
 
 Pour initialiser sa zône de travail :
+
  - cd /ma/zone/de/travail
  - svn checkout svn://svn.mongueurs.net/fpw2012
 
 Pour éditer des fichiers :
+
  - vi, emacs (ou ses variantes), kwrite, kate, eclipse... ce que vous voulez
 
 Pour remonter ses modif au server :
+
  - svn commit
 
 Pour mettre à jour sa zône de travail : 
+
  - cd /ma/zone/de/travail/fpw2012
  - svn update
 
@@ -91,22 +95,34 @@ C'est du :
 
 ### actdocs/templates/ui
 
-C'est le point d'entrée HTML.
+C'est le point d'entrée HTML, enfin, tel qu'on utilise le site aujourd'hui.
 
 C'est lui qui décrit (en TT) comment les pages (de actdocs seulement) se présentent
 (en haut, y a le logo de la conférence, puis tels menus, puis le corps, à droite y a
 d'autres menus, en bas les logos des sponsors... par exemple).
 
-## les pages du site
+## Les pages du site
 
-### les pages 'statiques'
+### Les pages 'statiques'
 
 Elles ne sont pas éditables depuis le site web lui-même. Il faut passer par ssh 
 (site de test) ou svn (site de prod).
 
 Dans actdocs/static se trouvent une série de .html qui sont le corps des pages statiques
-du site. Les pages publiées sont construites en appliquant ce corps dans le template ui.
-(je réalise que je ne sais pas si/comment on peut faire des pages avec des looks différents).
+du site.
+
+Ces pages commencent par appeler le template qui va être utilisé (ui) :
+
+ [% WRAPPER ui title = global.conference.name %]
+
+Ensuite, c'est du HTML.
+
+Et on finit par :
+
+ [% END %]
+
+
+Les pages publiées sont construites en appliquant ce corps dans le template précisé (ui chez nous).
 
 La gestion multilingue se fait avec les balises <t>.
 Disons que dans act.ini, on ait défini 2 langues : fr et en.
@@ -122,7 +138,7 @@ On n'utilise pas wwwdocs/ pour y mettre des pages (je ne dis ni que ce n'est pas
 ni que ce n'est pas à faire, juste qu'on ne l'a pas fait).
 
 
-### les pages d'inscription, de création de login
+### Les pages d'inscription, de création de login
 
 Le login est réutilisable sur toutes les conf Act hébergées par Act (et il y en a
 pas mal).
