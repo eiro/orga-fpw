@@ -1,3 +1,8 @@
+# Breaking news
+
+* notre webmestre JA est revenu d'inde, marc le contacte asap
+* suite problemes personnel, nous risquons de perdre notre guide pour la visite de strasbourg. si qq1 a une autre idée pour le parnter program ?
+
 # Date
 
 Vendredi 29 et samedi 30 juin, hackathon le dimanche 1er juillet.
