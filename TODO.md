@@ -3,6 +3,7 @@
 
 - buzzing internet: monter une strategie
 - contacter programmez, developpez, dlfp, linuxmag
+- COP: exemple ici http://linuxfr.org/news/les-journ%C3%A9es-perl%C2%A02011
 
 # Marc
 
