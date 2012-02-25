@@ -17,6 +17,7 @@ Mail : 		khatar(at)phear(point)org
 Tel:            03.68.85.16.71
 Github : 	eiro
 IRC : 		eiro
+Roles: suivi_sponsor, suivi_conferencier
 
 Alexandre Franke
 pour:
