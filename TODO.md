@@ -6,11 +6,16 @@
 
 # Marc
 
-- lancer act rapidement, recontacter tux, masak, jhntn, dams, pdl
+- lancer act rapidement, recontacter tux, masak, jhntn, dams
+- suivre le FEC
 - point sponsor avec laurent: qui contacter? état des contacts!
 - mettre la pression a manu pour la partie graphique (t-shirts, flyers, affichage)
 - mettre le feu a valentin pour la partie haskell -> buzzing de leur coté, cours, ...
 - relance josette pour savoir si elle a deja son billet d'avion (il faut la récuperer pour lui eviter de trimbaler ses bouquins)
+
+# Laurent
+
+- proposer une solution de payement pour réserver au CIARUS
 
 # Tous
 
