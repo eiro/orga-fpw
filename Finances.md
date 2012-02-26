@@ -10,6 +10,8 @@ Je peux peut-être faire qqchose de plus précis au fil du temps ? (j'ai un peu 
 
 # Sponsors privés
 
+Etat par sponsor dans sponsors.md
+
 ## Niveaux de sponsoring
 
 Proposition :
