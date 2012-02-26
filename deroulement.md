@@ -29,6 +29,8 @@ spore.hs ? pugs ? dancer ? actng ?
 
 actions = talks, classes, hack
 
+[elbeho] Pas de slot pour que les sponsors puissent se présenter ?
+
 9h     : ouverture
 9h15   : lightnings présentation des classrooms (5mn max par classe)
 9h30   : pause café
