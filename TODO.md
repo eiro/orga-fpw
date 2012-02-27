@@ -3,29 +3,32 @@
 
 - buzzing internet: monter une strategie
 - contacter programmez, developpez, dlfp, linuxmag
-- COP: exemple ici http://linuxfr.org/news/les-journ%C3%A9es-perl%C2%A02011
+- CfP: exemple ici http://linuxfr.org/news/les-journ%C3%A9es-perl%C2%A02011
 
 # Marc
 
 - lancer act rapidement, recontacter tux, masak, jhntn, dams
-- suivre le FEC
 - point sponsor avec laurent: qui contacter? état des contacts!
 - mettre la pression a manu pour la partie graphique (t-shirts, flyers, affichage)
 - mettre le feu a valentin pour la partie haskell -> buzzing de leur coté, cours, ...
 - relance josette pour savoir si elle a deja son billet d'avion (il faut la récuperer pour lui eviter de trimbaler ses bouquins)
 
-# Laurent
+# Alexandre
 
-- proposer une solution de payement pour réserver au CIARUS
+- FEC a recontacter ([marc]pas eu de nouvelles pour ma part)
+- proposer une solution de payement pour réserver au CIARUS (cf laurent) 
+- organisation Beer Event/Attendee Diner
+    - freres berthom ? 
+    - prospecter winstub 
+
+# Delphine
+
+- identifier les personnes aidant les jours J
+- identifier et dispatcher les taches
 
 # Tous
 
-- identifier un "chef de projet" qui suit le planing et botte les culs des gens en retard
-
-[marc] delphine ? (c'est la plus stressée: ce sera parfait!) 
-
 - identifier un "responsable du buzz" qui communique régulièrement sur des blogs, typepad, les news du site, twitter, etc. ou qui botte des culs pour que ce soit fait.
-
 - identifier un "responsable des sponsors", pour les identifier, les contacter (mais surtout éviter de demander 2 fois au même, ou d'en oublier), pour centraliser la comm' avec eux (ce qu'on leur propose, à quel prix, ce qu'ils fournissent, est-ce qu'ils ont eu la facture, est-ce qu'ils ont payé, est-ce qu'on les a remerciés avant et apres la conf), est-ce qu'ils ont leur slot et leur representant s'ils ont un temps de parole...
 
 [marc] je connais perso une partie des sponsors et je sais ce qu'on peut demander a epitech: je prend ? 
