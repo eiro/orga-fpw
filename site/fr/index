@@ -1,3 +1,5 @@
+[% WRAPPER ui title = global.conference.name %]
+
 <h1>Journées Perl 2012 : Rencontrer, Apprendre, Jouer, Créer</h1>
 
 <p>Les journées Perl attirent chaque années plus de monde et nous étions un peu à l'étroit dans l'espace numérique de la cité des sciences en 2011, c'est pourquoi l'édition 2012 se tiendra donc dans les spacieux locaux d'Epitech de Strasbourg, les 29 et 30 juin.</p>
@@ -44,3 +46,5 @@
 <h2>Curieux, technophiles, amoureux du libre, étudiants…</h2>
 
 <p>Même si vous ne pratiquez pas Perl et que vous n'envisagez pas de le faire, un moment convivial avec des gens qui partagent vos convictions et vos interets peut etre une raison suffisante !</p>
+
+[% END %]

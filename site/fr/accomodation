@@ -1,3 +1,6 @@
+[% title = { en => "Accomodation in Strasbourg", fr => "Hébergement sur Strasbourg" } ;
+   WRAPPER ui title = title.${global.request.language} %]
+
 <h1>Lieu</h1>
 
 <p>http://www.epitech.eu/epitech/plan.php?ville=strasbourg</p>
@@ -36,3 +39,5 @@
 <h2>Partners Program</h2>
 
 <p>Si nous dépassons les 15 inscrits, une visite de Strasbourg sera organisé par un amoureux de la ville, professeur d'histoire en retraite. Une petite participation sera demandée (10€ max.).</p>
+
+[% END %]
