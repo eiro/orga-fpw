@@ -17,6 +17,10 @@
 
 - FEC a recontacter ([marc]pas eu de nouvelles pour ma part)
 - proposer une solution de payement pour réserver au CIARUS (cf laurent) 
+    - quelle somme ?
+    - échéances
+    - mode de paiement
+    - contrat à signer ?
 - organisation Beer Event/Attendee Diner
     - freres berthom ? 
     - prospecter winstub 
