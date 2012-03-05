@@ -1,0 +1,267 @@
+[% WRAPPER ui title = global.conference.name %]
+
+<h2>
+  <t>
+    <fr>
+      Notre partenaire
+    </fr>
+    <en>
+      Our partnership
+    </en>
+  </t>
+</h2>
+
+<div class="topcontent">
+  <p>
+    <t>
+      <fr>Merci aux entreprises qui nous aident à préparer les JournéesPerl 2012</fr>
+      <en>We want to thank the companies that help us make the French Perl Workshop 2012</en>
+    </t>
+  </p>
+</div>
+
+[% sponsors = [] %]
+[% BLOCK sponsor %]
+[% url_show = url_show || url %]
+<div class="litcontent">
+  <a name="[% lnk %]"></a>
+  <h3>
+    [% name %]
+  </h3>
+  <a class="left" href="[% url %]"><img class="icon" src="[% make_uri('img')%]/[% img %]" alt="[% name %]" title="[% name %]" /></a>
+  <p>
+    [% content %]
+  </p>
+  <p><a href="[% url %]">&nbsp;&nbsp;»&nbsp;[% url_show %]</a></p>
+  <hr/>
+</div>
+[% END %]
+
+<!--  <h2><t><fr>Partenaire</fr><en>Partners</en></t></h2>  -->
+
+
+[% WRAPPER sponsor
+  img = 'logo-epitech.jpg'
+  nom = "Epitech"
+  url = "http://www.epitech.eu/ecole-informatique-strasbourg-alsace/"
+  lnk = 'epitech'
+  %]
+  <t>
+    <fr>
+      <p>
+      </p>
+    </fr>
+    <en>
+      <p>
+      </p>
+    </en>
+  </t>
+[% END %]
+
+<h2>
+  <t>
+    <fr>
+      Nos sponsors
+    </fr>
+    <en>
+      Our sponsors
+    </en>
+  </t>
+</h2>
+
+<!--
+[% WRAPPER sponsor
+img = 'insert_logo.png'
+name = 'SponsorPlatine1'
+url = 'http://www.linkfluence.net/'
+lnk = 'sponsor1'
+%]
+<t>
+  <fr>
+<p>
+Sponsor1 est une entreprise française innovante,
+de nombreuses fois primée, qui développe des outils, des méthodes
+et des concepts permettant à ses clients de xxxxx.
+</p>
+  </fr>
+  <en>
+<p>
+Sponsor1 is an innovative French company numerous award-winning.
+It develop tools, methods and concepts that enable its customers to xxxxxx
+</p>
+  </en>
+</t>
+[% END %]
+
+<h2>
+  <t>
+    <fr>
+      Sponsors Or
+    </fr>
+    <en>
+      Gold Sponsors
+    </en>
+  </t>
+</h2>
+
+[% WRAPPER sponsor
+img = 'insert_logo.png'
+name = 'SponsorGold2'
+url = 'http://www.biblibre.com/'
+lnk = 'sponsor2'
+%]
+<t>
+  <fr>
+<p>
+Sponsor2 est une entreprise fran\xc3\xa7aise innovante,
+de nombreuses fois prim\xc3\xa9e, qui d\xc3\xa9veloppe des outils, des m\xc3\xa9thodes
+et des concepts permettant \xc3\xa0 ses clients de xxxxx.
+</p>
+  </fr>
+  <en>
+<p>
+Sponsor2 is an innovative French company numerous award-winning.
+It develop tools, methods and concepts that enable its customers to xxxxxx
+</p>
+  </en>
+</t>
+[% END %]
+
+
+[% WRAPPER sponsor
+img = 'insert_logo.png'
+name = 'SponsorGold3'
+url = 'http://www.weborama.com/'
+lnk = 'sponsor3'
+%]
+<t>
+  <fr>
+<p>
+Sponsor3 est une entreprise fran\xc3\xa7aise innovante,
+de nombreuses fois prim\xc3\xa9e, qui d\xc3\xa9veloppe des outils, des m\xc3\xa9thodes
+et des concepts permettant \xc3\xa0 ses clients de xxxxx.
+</p>
+  </fr>
+  <en>
+<p>
+Sponsor3 is an innovative French company numerous award-winning.
+It develop tools, methods and concepts that enable its customers to xxxxxx
+</p>
+  </en>
+</t>
+[% END %]
+
+
+[% WRAPPER sponsor
+img = 'insert_logo.png'
+name = 'SponsorGold4'
+url = 'http://www.booking.com/'
+lnk = 'sponsor4'
+%]
+<t>
+  <fr>
+<p>
+Sponsor4 est une entreprise fran\xc3\xa7aise innovante,
+de nombreuses fois prim\xc3\xa9e, qui d\xc3\xa9veloppe des outils, des m\xc3\xa9thodes
+et des concepts permettant \xc3\xa0 ses clients de xxxxx.
+</p>
+  </fr>
+  <en>
+<p>
+Sponsor4 is an innovative French company numerous award-winning.
+It develop tools, methods and concepts that enable its customers to xxxxxx
+</p>
+  </en>
+</t>
+[% END %]
+
+
+<h2>
+  <t>
+    <fr>
+      Sponsors Bronze
+    </fr>
+    <en>
+      Bronze Sponsors
+    </en>
+  </t>
+</h2>
+
+[% WRAPPER sponsor
+img = 'insert_logo.png'
+name = 'SponsorGold5'
+url = 'http://www.booking.com/'
+lnk = 'sponsor5'
+%]
+<t>
+  <fr>
+<p>
+Sponsor4 est une entreprise fran\xc3\xa7aise innovante,
+de nombreuses fois prim\xc3\xa9e, qui d\xc3\xa9veloppe des outils, des m\xc3\xa9thodes
+et des concepts permettant \xc3\xa0 ses clients de xxxxx.
+</p>
+  </fr>
+  <en>
+<p>
+Sponsor4 is an innovative French company numerous award-winning.
+It develop tools, methods and concepts that enable its customers to xxxxxx
+</p>
+  </en>
+</t>
+[% END %]
+
+
+<h2>
+  <t>
+    <fr>
+      Sponsors technologiques
+    </fr>
+    <en>
+      Tech Sponsors
+    </en>
+  </t>
+</h2>
+      
+
+          
+<h2>
+  <t>
+    <fr>
+      Sponsors media
+    </fr>
+    <en>
+      Media sponsors
+    </en>
+  </t>
+</h2>
+-->
+
+  [% WRAPPER sponsor
+  img = 'logo_oreilly.gif'
+  nom = "O'Reilly"
+  url = "http://www.oreilly.co.uk/"
+  lnk = 'O_Reilly'
+  %]
+  <t>
+    <fr>Acteur reconnu de la communauté informaticienne, les 
+      <a title="Éditions O'Reilly" href="http://www.oreill.co.uk/">Éditions O'Reilly</a></strong> prêtent une attention particulière 
+à la qualité de leurs publications tant du point de vue du sérieux de 
+leurs sources que de la conception de leurs ouvrages. Aujourd'hui, ce 
+sont plus de 500 livres en français et en anglais comptant parmi 
+diverses collections étudiées pour satisfaire tous les profils&nbsp;: 
+que vous soyez débutant, expérimenté ou spécialiste et selon vos besoins, 
+vous trouverez à coup sûr un animal O'Reilly pour vous guider&nbsp;! 
+    </fr>
+    <en>
+<a title="O'Reilly &amp; Associates" href="http://www.oreilly.com/" 
+>O'Reilly &amp; Associates</a></strong> is the premier information 
+source for leading-edge computer technologies. The company's books, 
+conferences, and web sites bring to light the knowledge of technology 
+innovators. O'Reilly books, known for the animals on their covers, 
+occupy a treasured place on the shelves of the developers building 
+the next generation of software. 
+    </en>
+  </t> 
+  [% END %]
+
+[% END %]
