@@ -68,6 +68,10 @@ Les dates sont les "dates de fin". Par exemple: "15 mars Call for proposal" veut
 
  * contacter Josette (O'Reilly) pour voir comment les livres vont arriver à Strasbourg
 
+# 5 avril
+
+  * recontacter Hedera tech (cf [Sponsors](sponsors.md) )
+
 # 15 mars
 
  * Call for proposal/Appel à conférencier
