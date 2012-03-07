@@ -1,12 +1,18 @@
 # Liste des sponsors et status
 
 * teclib'
+
   [x] contact 
+
   [x] ok : 500 €
+
   [x] facture envoyée
+
   [ ] logo et txte reçus
+
   [ ] logo et texte sur le site
-  [ ] paiement reçu
+
+  [x] paiement reçu
 
 * Booking.com
   [x] contact 
