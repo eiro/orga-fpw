@@ -1,6 +1,6 @@
 # todo
 - Logo
-- Site web (actuellement ici http://test.mongueurs.net/fpw2012/)
+- Site web (http://journeesperl.fr/fpw2012/)
 - Affiche (format A3 mini)
 - Flyers
 
