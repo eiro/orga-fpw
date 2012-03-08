@@ -56,4 +56,18 @@
   * [ ] logo et texte sur le site
   * [ ] paiement reçu
 
+* DDG
+  * [X] contact - Getty
+  * [ ] ok / pas ok
+  * [ ] facture envoyée
+  * [ ] logo et texte reçus
+  * [ ] logo et texte sur le site
+  * [ ] paiement reçu
 
+* RBS
+  * [ ] contact - cf alex
+  * [ ] ok / pas ok
+  * [ ] facture envoyée
+  * [ ] logo et texte reçus
+  * [ ] logo et texte sur le site
+  * [ ] paiement reçu
