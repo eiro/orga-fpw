@@ -70,21 +70,25 @@ bbq             : non
 h1. speakers
 
 |_. theme      |_. talk                     |_. state             |_. who |
-| p5           | futur de perl              | todo                | futur de perl
-| p5           | tie your data              | todo                | tux
-| p5           | perl music                 | todo                | bruno
-| p5           | plack, dancer, d2          | todo                | weborama
-| p5           | moo, moose                 | todo                | dams
+| tools        | oudot                      | syn                 | oudot
+| tools        | nagios epn                 | syn                 | adlp
+| tools        | rt                         | syn                 | jean1
+| p5           | tie your data              | syn                 | tux
+| p5           | perlito                    | syn                 | fglock@perl6
+| p5           | perl music                 | syn                 | bruno
+| p5           | plack, dancer, d2          | syn                 | weborama
+| p5           | moo, moose                 | syn                 | dams
 | p5           | from perl5 to clojure      | syn                 | linkfluence
 | internals    | XS                         | todo                | rgs, vincent ? 
 | internals    | devel::declare, ast hooks, | (ack 25 mars ?)     | rafl
-| community    | (perl-qa, p5p, YAPC, ...)  | todo                | Book 
+| community    | (perl-qa, p5p, YAPC, ...)  | syn                 | Book 
+| p5           | futur de perl              | syn                | maddingue
 
 h1. classrooms
 
-rapid web dev. par camille
+* rapid web dev. par camille
+* perl6 team menée par cognominal
 
 [todo] retrouver le mail de mon contact en espagne
 [todo] ecocode, les belges
 [todo] rene, les allemands
-[todo]motivation: cognominal/cat se mettent d'accord pour perl6
