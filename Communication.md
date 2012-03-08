@@ -6,24 +6,30 @@
 
 # billet linuxfr 
 
-Les journées perl 2012 auront lieu cette année au centre de Strasbourg, ou l'epitech met a notre disposition une aile du prestigieux Hotel Livio.
+Les Journées Perl 2012 auront lieu au centre de Strasbourg, où l'epitech met à notre disposition une aile du prestigieux Hotel Livio.
 
-Le site web est ouvert depuis quelques jours et commence à s'animer. dejà, on parle de présentation sur l'assurance qualité, les tests, perl6, le parsing en perl, les outils, l'ecosystème, Moose, les nouveautés et le futur de perl5. Si vous aussi, vous souhaitez communiquer sur un outils, un module, une fonctionnalité ou une pratique qui vous est quotidienne ou chère, n'hésitez pas à proposer une présentation (tous les formats pour tous les niveaux sont envisageables).
+Le site web est ouvert depuis quelques jours et commence à s'animer. déjà, on parle de présentation sur l'assurance qualité, les tests, 
+Perl6, le parsing en Perl, les outils, la communauté, Moose, les nouveautés et le futur de perl5. 
 
-Il n'est pas nécessaire de s'inscrire sur le site pour participer à l'évenement (tout est publique et gratuit), toutefois si vous souhaitez réserver vos places pour le (TODO: attendee diner) ou l'hebergement, ou signaler aux organisateurs que vous souhaitez assister a certaines présentations, il est nécessaire de s'inscrire.
+Si vous aussi, vous souhaitez communiquer sur un outils, un module, une fonctionnalité ou une pratique qui vous est quotidienne ou chère, 
+n'hésitez pas à proposer une présentation (tous les formats pour tous les niveaux sont envisageables).
+
+Il n'est pas nécessaire de s'inscrire sur le site pour participer à l'évenement (tout est publique et gratuit), 
+toutefois si vous souhaitez réserver vos places pour le diner, l'hébergement, ou assister à certaines présentations, il est nécessaire de s'inscrire.
  
-Les entreprises a la recherche de collaborateurs, de solutions ou même de contact avec la communauté sont elles aussi les bienvenues: un espace leur sera dédié.
+Les entreprises à la recherche de collaborateurs, de solutions ou même de contact avec la communauté sont elles aussi les bienvenues: un espace leur sera dédié.
 
-Pour les compagnes/compagnons plus attirés par les monuments et les lieux historiques que par les langages qui écrivent l'histoire, une visite de la ville sera organisée si nous vons assez de personnes pour justifier la présence d'un guide: la encore, signalez-vous sur le wiki.
+Pour les compagnes/compagnons plus attirés par les monuments et les lieux historiques que par les langages qui écrivent l'histoire, une visite de la ville 
+pourra être organisée. Cela ne sera possible que si nous avons assez de personnes pour justifier la présence d'un guide: la encore, signalez-vous sur le wiki.
 
-L'équipe des organisateurs met tout en oeuvre pour que ce moment soit convivial et nous esperons vous voir nombreux.
+L'équipe des organisateurs met tout en oeuvre pour que ce moment soit convivial et nous espérons vous voir nombreux.
 
 # Idées com.
 Plusieurs angles de com. sont possible: 
 
 *Mode chauvin*
 
-- Prendre des elements visuels du monde perl (j'aime bien l'onion de la perl fundation ou le logo des mongueurs de perl), des elements visuels de l'alsace et mixer le tout. exemples simples:
+- Prendre des elements visuels du monde perl (j'aime bien l'onion de la perl fundation ou le logo des mongueurs de perl), des éléments visuels de l'Alsace et mixer le tout. exemples simples:
 - le coq mongueur sur le clochet de la cathédrale 
 - le coq mongueur avec un ruban alsacien [Delphine, en mode féministe] j'aime celui-là, on pourrait féminiser le coq, parce que la coiffe ne va qu'aux femmes et ça changerait un peu
 - un verre de bière ou de schnaps frappé du logo des mongueurs
