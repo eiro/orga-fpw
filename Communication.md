@@ -4,6 +4,19 @@
 - Affiche (format A3 mini)
 - Flyers
 
+# billet linuxfr 
+
+Les journées perl 2012 auront lieu cette année au centre de Strasbourg, ou l'epitech met a notre disposition une aile du prestigieux Hotel Livio.
+
+Le site web est ouvert depuis quelques jours et commence à s'animer. dejà, on parle de présentation sur l'assurance qualité, les tests, perl6, le parsing en perl, les outils, l'ecosystème, Moose, les nouveautés et le futur de perl5. Si vous aussi, vous souhaitez communiquer sur un outils, un module, une fonctionnalité ou une pratique qui vous est quotidienne ou chère, n'hésitez pas à proposer une présentation (tous les formats pour tous les niveaux sont envisageables).
+
+Il n'est pas nécessaire de s'inscrire sur le site pour participer à l'évenement (tout est publique et gratuit), toutefois si vous souhaitez réserver vos places pour le (TODO: attendee diner) ou l'hebergement, ou signaler aux organisateurs que vous souhaitez assister a certaines présentations, il est nécessaire de s'inscrire.
+ 
+Les entreprises a la recherche de collaborateurs, de solutions ou même de contact avec la communauté sont elles aussi les bienvenues: un espace leur sera dédié.
+
+Pour les compagnes/compagnons plus attirés par les monuments et les lieux historiques que par les langages qui écrivent l'histoire, une visite de la ville sera organisée si nous vons assez de personnes pour justifier la présence d'un guide: la encore, signalez-vous sur le wiki.
+
+L'équipe des organisateurs met tout en oeuvre pour que ce moment soit convivial et nous esperons vous voir nombreux.
 
 # Idées com.
 Plusieurs angles de com. sont possible: 
