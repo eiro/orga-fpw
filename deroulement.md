@@ -56,10 +56,35 @@ actions = talks, classes, hack
 
 # a connaitre
 
-- nombre de salles dispos ? 
-- systemes de videoprojection ? 
-- systemes d'enregistrement video ? 
-- espace stand (SBY booking)
-- pause café ?
-- vestiaire ?
-- bbq dans le jardin ? (flam? beer event?)
+salles dispos   : 20
+videoprojection : oui
+enregistrement  : non
+stand           : oui
+cafe            : oui
+vestiaire       : non
+bbq             : non
+
+# conferenciers
+
+
+h1. speakers
+
+|_. theme      |_. talk                     |_. state             |_. who |
+| p5           | futur de perl              | todo                | futur de perl
+| p5           | tie your data              | todo                | tux
+| p5           | perl music                 | todo                | bruno
+| p5           | plack, dancer, d2          | todo                | weborama
+| p5           | moo, moose                 | todo                | dams
+| p5           | from perl5 to clojure      | syn                 | linkfluence
+| internals    | XS                         | todo                | rgs, vincent ? 
+| internals    | devel::declare, ast hooks, | (ack 25 mars ?)     | rafl
+| community    | (perl-qa, p5p, YAPC, ...)  | todo                | Book 
+
+h1. classrooms
+
+rapid web dev. par camille
+
+[todo] retrouver le mail de mon contact en espagne
+[todo] ecocode, les belges
+[todo] rene, les allemands
+[todo]motivation: cognominal/cat se mettent d'accord pour perl6
