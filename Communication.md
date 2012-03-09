@@ -6,21 +6,22 @@
 
 # billet linuxfr 
 
-Les Journées Perl 2012 auront lieu au centre de Strasbourg, où l'epitech met à notre disposition une aile du prestigieux Hotel Livio.
+Les Journées Perl 2012 auront lieu au centre de Strasbourg, où l'Epitech met à notre disposition une aile du prestigieux Hôtel Livio.
 
-Le site web est ouvert depuis quelques jours et commence à s'animer. déjà, on parle de présentation sur l'assurance qualité, les tests, 
-Perl6, le parsing en Perl, les outils, la communauté, Moose, les nouveautés et le futur de perl5. 
+Le site web est ouvert depuis quelques jours et commence à s'animer. Déjà, on parle de présentations sur l'assurance qualité, les tests, 
+Perl6, le parsing en Perl, les outils, la communauté, Moose, les nouveautés et le futur de Perl5. 
 
-Si vous aussi, vous souhaitez communiquer sur un outils, un module, une fonctionnalité ou une pratique qui vous est quotidienne ou chère, 
+Si vous aussi, vous souhaitez communiquer sur un outil, un module, une fonctionnalité ou une pratique qui vous est quotidienne ou chère, 
 n'hésitez pas à proposer une présentation (tous les formats pour tous les niveaux sont envisageables).
 
-Il n'est pas nécessaire de s'inscrire sur le site pour participer à l'évenement (tout est publique et gratuit), 
-toutefois si vous souhaitez réserver vos places pour le diner, l'hébergement, ou assister à certaines présentations, il est nécessaire de s'inscrire.
+Il n'est pas nécessaire de s'inscrire sur le site pour participer à l'événement (tout est public et gratuit). 
+Toutefois, si vous comptez participer, votre inscription permet aux organisateurs de mieux préparer votre venue.
+L'inscription sur le site est aussi nécessaire pour réserver vos places pour le dîner, l'hébergement, ou assister à certaines présentations.
  
-Les entreprises à la recherche de collaborateurs, de solutions ou même de contact avec la communauté sont elles aussi les bienvenues: un espace leur sera dédié.
+Les entreprises à la recherche de collaborateurs, de solutions ou même de contact avec la communauté sont elles aussi les bienvenues : un espace leur sera dédié.
 
-Pour les compagnes/compagnons plus attirés par les monuments et les lieux historiques que par les langages qui écrivent l'histoire, une visite de la ville 
-pourra être organisée. Cela ne sera possible que si nous avons assez de personnes pour justifier la présence d'un guide: la encore, signalez-vous sur le wiki.
+Pour les compagnes/compagnons plus attirés par les monuments et les lieux historiques que par les langages qui écrivent l'Histoire, une visite de la ville 
+pourra être organisée. Cela ne sera possible que si nous avons assez de personnes pour bénéficier de la présence d'un guide : là encore, signalez-vous sur le wiki.
 
 L'équipe des organisateurs met tout en oeuvre pour que ce moment soit convivial et nous espérons vous voir nombreux.
 
@@ -61,14 +62,16 @@ mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une p
 
 ## Mini cahier des charges affiche 
 
-  <elbeho> - "Journées Perl 2012", la date, le lieu
-  <elbeho> - le logo des Mongueurs (le coq, éventuellement customisé pour faire local)
-  <elbeho> - une zone en bas pour mettre les logos des sponsors qu'on aurait à temps
-  <elbeho> - pas de risque d'attaque pour plagiat/violation de copyright
+[elbeho]
+  * "Journées Perl 2012", la date, le lieu
+  * le logo des Mongueurs (le coq, éventuellement customisé pour faire local)
+  * une zone en bas pour mettre les logos des sponsors qu'on aurait à temps
+  * pas de risque d'attaque pour plagiat/violation de copyright
 
 ## WHO ?
 
 [Delphine] On a un graphiste - Kev
+
 [Manu] J'ai un contact, Aline, je vais lui transmettre les idées.
 
 # Les canaux de comm'
