@@ -24,6 +24,7 @@
 - organisation Beer Event/Attendee Diner
     - freres berthom ? 
     - prospecter winstub 
+- Sponsoring RBS
 
 # Delphine
 
