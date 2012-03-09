@@ -10,7 +10,7 @@
 
 * Booking.com
   * [x] contact - anniek.veltman@booking.com - il faut donner signe de vie, mettre le site en anglais
-  * [X] ok / pas ok
+  * [X] ok 
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
@@ -71,3 +71,16 @@
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
   * [ ] paiement reçu
+
+* CACIIS (Conseil, infogérance, intégration)
+  * [X] contact - Florian Royer (via les offres d'emploi)
+  * [X] ok 
+  * [ ] facture envoyée
+  * [ ] logo et texte reçus
+  * [ ] logo et texte sur le site
+  * [ ] paiement reçu
+
+# Ils ont refusé
+
+  * FraudBuster (mail de Léonard Wauters du 9/3/12)
+
