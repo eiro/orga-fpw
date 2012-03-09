@@ -1,4 +1,7 @@
 [% WRAPPER ui title = global.conference.name %]
+[% title = { en => "Our Sponsors", fr => "Les Sponsors des Journées Perl" } ;
+   WRAPPER ui title = title.${global.request.language}
+%]
 
 <h2>
   <t>
