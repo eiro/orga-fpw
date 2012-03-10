@@ -1,10 +1,14 @@
-# todo
+# TODO
+
 - Logo
 - Site web (actuellement ici http://test.mongueurs.net/fpw2012/)
 - Affiche (format A3 mini)
+- T-shirts
 - Flyers
 
-# billet linuxfr 
+# Annonces
+
+## Billet linuxfr 
 
 Les Journées Perl 2012 auront lieu au centre de Strasbourg, où l'Epitech met à notre disposition une aile du prestigieux Hôtel Livio.
 
@@ -25,7 +29,11 @@ pourra être organisée. Cela ne sera possible que si nous avons assez de person
 
 L'équipe des organisateurs met tout en oeuvre pour que ce moment soit convivial et nous espérons vous voir nombreux.
 
-# Idées com.
+
+# Graphisme
+
+## Idées 
+
 Plusieurs angles de com. sont possible: 
 
 *Mode chauvin*
@@ -60,21 +68,14 @@ mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une p
 
 [Delphine] le coq + alsace avec "Rencontrer, Apprendre, Jouer, Créer", ça peut le faire je pense. J'ai pas encore regardé les Battlestar galactica... :-(
 
-## Mini cahier des charges affiche 
+## Mini cahier des charges pour l'affiche 
 
-[elbeho]
   * "Journées Perl 2012", la date, le lieu
   * le logo des Mongueurs (le coq, éventuellement customisé pour faire local)
   * une zone en bas pour mettre les logos des sponsors qu'on aurait à temps
   * pas de risque d'attaque pour plagiat/violation de copyright
 
-## WHO ?
-
-[Delphine] On a un graphiste - Kev
-
-[Manu] J'ai un contact, Aline, je vais lui transmettre les idées.
-
-# Les canaux de comm'
+# Les canaux de communication
 
  * le site web http://journeesperl.fr (les News)
  * twitter, compte journeesperl
@@ -93,7 +94,3 @@ mais bon ...  "Frak! les toasters sont sexy!" un chameau avec un cigare et une p
 
 Si y'a une demi journée avec des conf sur des applications
   * Club Informatique de l'Est (des DSI) [Manu]
-
-
-
-
