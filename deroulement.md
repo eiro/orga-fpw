@@ -92,3 +92,8 @@ h1. classrooms
 [todo] retrouver le mail de mon contact en espagne
 [todo] ecocode, les belges
 [todo] rene, les allemands
+
+# Autres
+
+  * prévoir une personne / un relais pour twitter les débuts de talks pdt les 2 jours
+
