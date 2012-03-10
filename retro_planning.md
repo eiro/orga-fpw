@@ -9,7 +9,7 @@ Les dates sont les "dates de fin". Par exemple: "15 mars Call for proposal" veut
  * Avoir les T-shirts
  * Réserver le resto du jeudi soir
  * Réserver le resto du vendredi soir
- * Réserver le resto du samed soir
+ * Réserver le resto du samedi soir
  * Prévoir les pauses (bouffes, boissons)
  * Prévoir les ptit dej d'accueil
  * Faire les courses de non périssables
@@ -46,7 +46,7 @@ Les dates sont les "dates de fin". Par exemple: "15 mars Call for proposal" veut
 
 # 29-30 juin
 
- * Jours J : voir deroulement.md
+ * Jours J : voir [deroulement.md](deroulement.md)
 
 # 19-21 juin
 
@@ -80,7 +80,7 @@ Les dates sont les "dates de fin". Par exemple: "15 mars Call for proposal" veut
 
 # 5 mars
 
- * [tous?] lancer la chasse aux sponsors (tenir à jour le fichier sponsors.md)
+ * [tous?] lancer la chasse aux sponsors (tenir à jour le fichier [sponsors.md](sponsors.md))
 
 # 4 mars
 
