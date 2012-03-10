@@ -1,7 +1,9 @@
 # Liste des sponsors et status
 
 * teclib'
-  * [x] contact - Chloé 
+
+  * responsable : 
+  * [x] contact - Chloé
   * [x] ok : 500 €
   * [x] facture envoyée
   * [ ] logo et texte reçus
@@ -9,6 +11,7 @@
   * [x] paiement reçu
 
 * Booking.com
+  * responsable : 
   * [x] contact - anniek.veltman@booking.com - il faut donner signe de vie, mettre le site en anglais
   * [X] ok 
   * [ ] facture envoyée
@@ -17,6 +20,7 @@
   * [ ] paiement reçu
 
 * linkfluence
+  * responsable : marc
   * [ ] contact - cmaussang - en attente de confirmation
   * [ ] ok / pas ok - plutôt OK
   * [ ] facture envoyée
@@ -25,6 +29,7 @@
   * [ ] paiement reçu
 
 * weborama
+  * responsable : marc
   * [ ] contact - sukria, dams - on attend la décision
   * [ ] ok / pas ok
   * [ ] facture envoyée
@@ -33,6 +38,7 @@
   * [ ] paiement reçu
 
 * Bib Libre
+  * responsable : marc
   * [ ] contact
   * [ ] ok / pas ok
   * [ ] facture envoyée
@@ -41,6 +47,7 @@
   * [ ] paiement reçu
 
 * hedera tech
+  * responsable : 
   * [ ] contact - Romain Chanut - Recontacter Hedera courant avril
   * [ ] ok / pas ok - plutôt OK
   * [ ] facture envoyée
@@ -49,6 +56,7 @@
   * [ ] paiement reçu
 
 * Les Nouveaux Constructeurs
+  * responsable :
   * [ ] contact - Nicolas Rennert - vu par elbeho le 5/3/12, va demander
   * [ ] ok / pas ok
   * [ ] facture envoyée
@@ -57,6 +65,7 @@
   * [ ] paiement reçu
 
 * DDG
+  * responsable :
   * [X] contact - Getty
   * [ ] ok / pas ok
   * [ ] facture envoyée
@@ -65,6 +74,7 @@
   * [ ] paiement reçu
 
 * RBS
+  * responsable : 
   * [ ] contact - cf alex
   * [ ] ok / pas ok
   * [ ] facture envoyée
@@ -73,6 +83,7 @@
   * [ ] paiement reçu
 
 * CACIIS (Conseil, infogérance, intégration)
+  * responsable : 
   * [X] contact - Florian Royer (via les offres d'emploi)
   * [X] ok 
   * [ ] facture envoyée
