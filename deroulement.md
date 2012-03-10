@@ -93,6 +93,13 @@ h1. classrooms
 [todo] ecocode, les belges
 [todo] rene, les allemands
 
+# Manger/boire
+
+  * prévoir pour le thé/café et le matériel qui va avec
+  [elbeho] les Mongueurs disposent (chez moi) de 3 thermos de 3 litres (5 l ?) avec pompe qui peuvent servir pour du café,de l'eau pour du thé (on a utilisé 2 thermos pour le café, 1 uniquement pour de l'eau chaude jusqu'à présent pour éviter les mix de goûts).
+  [Delphine] Je peux emprunter sous caution un percolateur,
+  * pour les repas du midi
+
 # Autres
 
   * prévoir une personne / un relais pour twitter les débuts de talks pdt les 2 jours

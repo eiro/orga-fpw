@@ -39,6 +39,8 @@
 # 10 juin
  * T-shirts: BAT confirmé, quantités confirmées, paimenent effectué
  * déroulement : planning/programme de l'évènement
+ * déroulement : matériel pour le thé/café/repas
+ * déroumement : faire la liste des courses
  
 # 15 juin
   * déroulement : Ecrire le talk d'ouverture
@@ -62,4 +64,8 @@
 # 29-30 juin
  * Jours J : voir [deroulement.md](deroulement.md)
 
+# après
+
+ * remercier les gens, monter les videos et les publier, faire un article dans GLMF (ou ailleurs), faire un feedback
+ 
 

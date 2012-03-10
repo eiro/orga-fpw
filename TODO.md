@@ -12,6 +12,7 @@
 - mettre la pression a manu pour la partie graphique (t-shirts, flyers, affichage)
 - mettre le feu a valentin pour la partie haskell -> buzzing de leur coté, cours, ...
 - relance josette pour savoir si elle a deja son billet d'avion (il faut la récuperer pour lui eviter de trimbaler ses bouquins) [elbeho] en général, elle envoie ses bouquins à part (y en a une palette quand même). Je pense qu'il faut trouver un contact à qui les adresser directement à l'Epitech (et prevoir de quoi les trimballer du lieu de stockage au stand, si c'est à plus de 20m).
+- repérage Epitech : nombre de salles
 
 # Alexandre
 
@@ -28,8 +29,9 @@
 
 # Delphine
 
-- identifier les personnes aidant les jours J
+- proposer le Mr Communication
 - identifier et dispatcher les taches
+- identifier les personnes aidant les jours J
 
 # Tous
 
