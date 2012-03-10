@@ -5,9 +5,6 @@
 
 [elbeho] pour info, comme eiro ne m'a pas fourni beaucoup de détail, j'ai budgeté 2000 € de dépenses et 2500 € de recettes. Ce n'est qu'indicatif. C'est basé sur les précédentes Journées Perl et sur le sens du vent :-)
 
-[Delphine] ouais effectivement c'est un peu le sens du vent. les bilans des précédentes éditions sont très changeants.
-Je peux peut-être faire qqchose de plus précis au fil du temps ? (j'ai un peu d'expérience en tant que Trésorière).
-
 # Sponsors privés
 
 Etat par sponsor dans sponsors.md
@@ -26,13 +23,7 @@ Les sponsors sont plus généreux qu'on ne peut le croire. Demandez 1000 € si 
 ## Sponsors confirmés
 
  * teclib' 500 € (facture envoyée)
- * Booking.com a pris contact sur la liste FPW pour dire que ça les intéressait de sponsoriser. eiro devait répondre.
 
-## Sponsors à confirmer
-
- * linkfluence
- * weborama
- * Qui d'autre ? On vise quel secteur d'activité/type de sociétés ?
 
 # Financement public
 
