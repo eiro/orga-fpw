@@ -3,6 +3,7 @@
   * le site (fr et en)
   * contacter les sponsors (voir [sponsors.md](sponsors.md)
   * trouver des conférenciers
+  * hébergement : CIARUS, FEC, hôtels
 
 # Au fil de l'eau
   * mettre à jour le git !!

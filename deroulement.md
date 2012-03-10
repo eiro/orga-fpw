@@ -1,4 +1,4 @@
-# dimensionnement
+# Dimensionnement
 
 !!! ce dimensionnement ne pourra etre revu qu'a la baisse en fonction du désistement des speakers/animateurs.
 
@@ -17,19 +17,21 @@
 - confs masak, jhthn, tux, autres ? 
 - lang:en
 
-# classrooms
+## classrooms
 
 perl6, perl5 et le web, haskell 
 
-# hackrooms
+## hackrooms
 
 spore.hs ? pugs ? dancer ? actng ? 
 
-# proposition Programme
+## proposition Programme
 
 actions = talks, classes, hack
 
 [elbeho] Pas de slot pour que les sponsors puissent se présenter ?
+
+### vendredi
 
 9h     : ouverture
 9h15   : lightnings présentation des classrooms (5mn max par classe)
@@ -42,7 +44,7 @@ actions = talks, classes, hack
 18h30  : fin
 20h    : attendee diner ? ou ? 
 
-## samedi 
+### samedi 
 
 9h     : actions
 10h    : pause café
@@ -54,7 +56,7 @@ actions = talks, classes, hack
 17h30  : cloture
 18h    : fin
 
-# a connaitre
+## a connaitre
 
 salles dispos   : 20
 videoprojection : oui
@@ -64,7 +66,7 @@ cafe            : oui
 vestiaire       : non
 bbq             : non
 
-# conferenciers
+## conferenciers
 
 
 h1. speakers
@@ -99,6 +101,12 @@ h1. classrooms
   [elbeho] les Mongueurs disposent (chez moi) de 3 thermos de 3 litres (5 l ?) avec pompe qui peuvent servir pour du café,de l'eau pour du thé (on a utilisé 2 thermos pour le café, 1 uniquement pour de l'eau chaude jusqu'à présent pour éviter les mix de goûts).
   [Delphine] Je peux emprunter sous caution un percolateur,
   * pour les repas du midi
+
+# Hébergement
+
+  * CIARUS : 30 lits, à réserver. -> en attente du paiement en ligne
+  * FEC
+  * Hôtels
 
 # Autres
 
