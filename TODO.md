@@ -1,6 +1,7 @@
 
 # Orphaned
 
+- proposer une solution de payement pour réserver au CIARUS
 - buzzing internet : monter une strategie
 - contacter programmez, developpez, dlfp, linuxmag
 - CfP: exemple ici http://linuxfr.org/news/les-journ%C3%A9es-perl%C2%A02011
@@ -16,16 +17,15 @@
 
 # Alexandre
 
-- FEC a recontacter ([marc]pas eu de nouvelles pour ma part)
 - organisation Beer Event/Attendee Diner
     - freres berthom ? 
     - prospecter winstub 
-- proposer une solution de payement pour réserver au CIARUS (cf laurent) 
-    - CIARUS contacté, en attente de retour
-    - quelle somme ?
-    - échéances
-    - mode de paiement
-    - contrat à signer ?
+- CIARUS
+    - 35.7€/nuit/personne avec petit-déjeuner (tarif groupe valable pour plus de 10 personnes)
+    - On peut venir quand on veut, mais plus on tarde et moins on a de chance pour les disponibilités.
+    - Paiement à la réservation.
+- FEC
+    - contactés, en attente de retour
 - Sponsoring RBS
     - contactés, en attente de retour
 
