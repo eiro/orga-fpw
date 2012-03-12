@@ -17,15 +17,17 @@
 # Alexandre
 
 - FEC a recontacter ([marc]pas eu de nouvelles pour ma part)
+- organisation Beer Event/Attendee Diner
+    - freres berthom ? 
+    - prospecter winstub 
 - proposer une solution de payement pour réserver au CIARUS (cf laurent) 
+    - CIARUS contacté, en attente de retour
     - quelle somme ?
     - échéances
     - mode de paiement
     - contrat à signer ?
-- organisation Beer Event/Attendee Diner
-    - freres berthom ? 
-    - prospecter winstub 
 - Sponsoring RBS
+    - contactés, en attente de retour
 
 # Delphine
 
