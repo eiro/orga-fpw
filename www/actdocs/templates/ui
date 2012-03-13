@@ -51,9 +51,9 @@
             </div>
 
             <div id="features" class="columns clearfix">
-                <div><span class="legend">Toi aussi deviens un(e) geek(e) barbu(e) !</span></div>
-                <div><span class="legend">Franck présentant son projet <a href="#">StarGit</a> en 2011.</span></div>
-                <div><span class="legend">Plan d'accès</span></div>
+					<div><span class="legend"><t><fr>Toi aussi deviens un(e) geek(e) barbu(e) !</fr><en>You can also be a beared geek!</en></t></span></div>
+					<div><span class="legend"><t><fr>Franck présentant son projet <a href="#">StarGit</a> en 2011.</fr><en>Franck presenting StarGit, one of his projects</en></t></span></div>
+					<div><span class="legend"><t><fr>Plan d'accès</fr><en>Access map</en></t></span></div>
             </div>
 
             <div id="center" class="clearfix">
