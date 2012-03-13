@@ -1,0 +1,14 @@
+<div align="right">
+  <t>
+    <fr>
+      <a href="?language=en">
+        <img class="icon" src="[% make_uri_info('img', 'language.uk.png') %]" alt="English"/>
+      </a>
+    </fr>
+    <en>
+      <a href="?language=fr">
+        <img class="icon" src="[% make_uri_info('img', 'language.fr.png') %]" alt="Fran&ccedil;ais"/>
+      </a>
+    </en>
+  </t>
+</div>

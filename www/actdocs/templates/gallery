@@ -1,0 +1,35 @@
+[% FILTER collapse %]
+
+<p>
+  <t>
+    <fr>
+      <a href="[% make_uri('buzz.html') %]">Faites de la pub</a>
+      pour les Journ&eacute;es Perl 2012!
+    </fr>
+    <en>
+      <a href="[% make_uri('buzz.html') %]">Advertise</a> FPW2012!
+    </en>
+  </t>
+</p>
+
+<p>
+  <t>
+    <fr>
+      Vous pouvez nous suivre sur:
+    </fr>
+    <en>
+      You can follow us on:
+    </en>
+  </t>
+  <br/> |
+  <a href="http://twitter.com/journeesperl"><img class="icon" src="[% make_uri_info('img', 'blogging.twitter.png') %]" alt="twitter"/></a> |
+  <a href="http://identi.ca/journeesperl"><img class="icon" src="[% make_uri_info('img', 'blogging.identica.png') %]" alt="identi.ca"/></a> |
+</p>
+
+<div id="twitter" >
+  [% PROCESS twitter %]
+</div>
+
+
+[% END %]
+

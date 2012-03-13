@@ -1,0 +1,32 @@
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 3,
+  interval: 6000,
+  width: 300,
+  height: 250,
+  theme: {
+    shell: {
+      background: '#666666',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#333333',
+      color: '#ffffff',
+      links: '#0eaac6'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('journeesperl').start();
+</script>
+
