@@ -4,7 +4,7 @@
 
 ### Le site de test
 
-    * C'est là : [http://test.mongueurs.net/fpw2012](http://test.mongueurs.net/fpw2012)
+  * C'est là : [http://test.mongueurs.net/fpw2012](http://test.mongueurs.net/fpw2012)
 
 
 Le site de test est une série de fichiers qui se trouve sur le serveur spectre.
@@ -15,7 +15,7 @@ Les mises à jour sont visibles dès la sauvegarde du fichier concerné (et un r
 
 ### Le site de prod
 
-    * C'est là : [http://journeesperl.fr/fpw2012](http://journeesperl.fr/fpw2012)
+  * C'est là : [http://journeesperl.fr/fpw2012](http://journeesperl.fr/fpw2012)
 
 
 Le site de prod est accessible via un dépôt Subversion. Le commit bit est à demander à Maddingue.
