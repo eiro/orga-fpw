@@ -7,7 +7,7 @@
 
 # Sponsors privés
 
-Etat par sponsor dans sponsors.md
+Etat par sponsor dans [sponsors.md](sponsors.md)
 
 ## Niveaux de sponsoring
 
@@ -22,7 +22,7 @@ Les sponsors sont plus généreux qu'on ne peut le croire. Demandez 1000 € si 
 
 ## Sponsors confirmés
 
- * teclib' 500 € (facture envoyée)
+ * teclib' 500 € (facture envoyée, paiement reçu)
 
 
 # Financement public
