@@ -41,6 +41,7 @@ mais aussi ...
  * Jean-André Santoni
  * Lionel Brosius (pour Epitech)
  * Laurent Boivin (Trésorier des Mongueurs, elbeho sur irc, elbeho(at)mongueurs(dot)net)
+ * Sébastien Deseille (Président des Mongueurs, sdeseille sur irc,sebastien(point)deseille(at)gmail(point)com
 
 # Autres contacts
 
