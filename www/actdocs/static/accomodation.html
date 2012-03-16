@@ -1,5 +1,16 @@
 [% title = { en => "Accommodation in Strasbourg", fr => "Hébergement sur Strasbourg" } ;
    WRAPPER ui title = title.${global.request.language} %]
+
+<h2>
+   <t>
+   <fr>Lieu</fr>
+   <en>Location</fr>
+   </t>
+</h2>
+
+<p><a href="http://www.epitech.eu/epitech/plan.php?ville=strasbourg">Epitech Strasbourg, 4 rue du Dôme, F-67000 Strasbourg</a></p>
+
+
 <h2>
 	<t>
 	<fr>Hébergement</fr>
@@ -9,11 +20,28 @@
 
 <p>
 	<t>
-	<fr>L'association a posé une option sur 30 lits dans des chambres de 2, 4 et 8 personnes au <a href="http://www.ciarus.com/">Ciarus</a> ( 35,70€ la nuit et le petit déjeuner) : il nous faut confirmer un maximum de lits afin de pouvoir les conserver. Nous tentons de mettre un systeme de payement en ligne en place mais il n'est pas besoin d'attendre pour organiser la répartition dans les chambres sur le<a href="wikiedit">wiki</a>.</fr>
-	<en>The association negotiated 30 beds in rooms of 2, 4 or 8 people at the <a href="http://www.ciarus.com/homepage-en.html">Ciarus</a> (35,70€ per night including breakfast). We need to confirm quickly to keep the booking. We are trying to deploy an online payment system but you can already arrange distribution in rooms on the <a href="wikiedit">wiki</a>.</en>
+	<fr>
+	<p>L'association a pris contact avec le <a href="http://www.ciarus.com/" target="_new">CIARUS</a> pour vous proposer un hébergement à petit prix.</p>
+	<p>Le CIARUS propose des chambres de 2, 4 et 8 lits pour 37,50 € (nuit et petit-déjeuner).<br />
+	Cette <a href="[% make_uri('wiki?node=Hébergement') %]">page du wiki</a> vous permet de vous inscrire.<br />
+	Si nous avons suffisamment de réservations, nous bloquerons les lits en conséquence.<br />
+	La date limite d'inscription sera aussi indiquée sur le wiki. Elle vous donnera le temps de déclencher un plan B le cas échéant.<br />
+	Le paiement se fera en ligne sur le site des Journées Perl (plus d'info d'ici quelques jours).<br />
+	</p>
+
+	</fr>
+	<en>
+	<p>The French Perl Mongers have contacted the <a href="http://www.ciarus.com/" target="_new">CIARUS</a> to propose a low cost stay.</p>
+	<p>CIARUS has rooms with 2, 4 or 8 beds, 37.50 €/bed (breakfast included).<br>
+	You can register for a stay at CIARUS <a href="[% make_uri('wiki?node=Hébergement') %]">on the wiki</a>.<br />
+	We need enough registrations to book the beds accordingly.<br />
+	The dead-line to register will also be written on the wiki. You'll have enough time to find a alternate plan in case of.<br />
+	Their will be an online payment for the specific booking on the French Perl Workshop (more info here soon).<br />
+	</p>
+
+	</en>
 	</t>
 
-</p>
 
 <h2>
 	<t>
