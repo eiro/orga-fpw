@@ -1,6 +1,6 @@
 <ul id="menu">
     <li><a href="[% make_uri_info() %]"><t><fr>&Agrave; propos</fr><en>About</en></t></a></li>
-    <li><a href="[% make_uri('wiki') %]"><t><fr>Wiki</fr><en>Wiki</en></t></a></li>
+    <li><a href="[% make_uri('wiki') %]"><t><fr>Infos pratiques</fr><en>Wiki</en></t></a></li>
     <li><a href="[% make_uri('talks') %]">{{Presentations}}</a></li>
 <!-- 
     <li><a href="[% make_uri('news') %]">{{News}}</a></li>
