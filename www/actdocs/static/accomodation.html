@@ -2,7 +2,7 @@
    WRAPPER ui title = title.${global.request.language} %]
 
 [% BLOCK hotel %]
-<li><a href="[% url %]?aid=313263&lang=[% global.request.language %]&do_availability_check=on&checkin_monthday=24&checkin_year_month=2011-06&checkout_monthday=26&checkout_year_month=2011-06">[% name %]</a>
+<li><a href="[% url %]?aid=313263&lang=[% global.request.language %]&do_availability_check=on&checkin_monthday=29&checkin_year_month=2012-06&checkout_monthday=01&checkout_year_month=2012-07">[% name %]</a>
    [% etoile = '*'; etoile.repeat(star) %]
    </li>
 [% END %]
@@ -87,7 +87,7 @@
 <ul>
 
 [% PROCESS hotel
-   url  = '> http://www.booking.com/hotel/fr/michelet.fr.html'
+   url  = 'http://www.booking.com/hotel/fr/michelet.fr.html'
    name = 'Hotel Michelet'
    star = 1
 %]
