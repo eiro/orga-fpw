@@ -1,6 +1,13 @@
 [% title = { en => "Accommodation in Strasbourg", fr => "Hébergement sur Strasbourg" } ;
    WRAPPER ui title = title.${global.request.language} %]
 
+[% BLOCK hotel %]
+<li><a href="[% url %]?aid=313263&lang=[% global.request.language %]&do_availability_check=on&checkin_monthday=24&checkin_year_month=2011-06&checkout_monthday=26&checkout_year_month=2011-06">[% name %]</a>
+   [% etoile = '*'; etoile.repeat(star) %]
+   </li>
+[% END %]
+
+
 <h2>
    <t>
    <fr>Lieu</fr>
@@ -18,7 +25,8 @@
 	</t>
 </h2>
 
-<p>
+<h3>Le Ciarus</h3>
+
 	<t>
 	<fr>
 	<p>L'association a pris contact avec le <a href="http://www.ciarus.com/" target="_new">CIARUS</a> pour vous proposer un hébergement à petit prix.</p>
@@ -41,6 +49,74 @@
 
 	</en>
 	</t>
+
+<h3><t><fr>H\xc3\xb4tels disponibles sur Strasbourg</fr><en>Available hotels in Strasbourg</en></t></h3>
+
+<div class="content">
+<p>
+  <t>
+    <fr>
+    Attention, les liens pointent vers les h\xc3\xb4tels avec recherche
+    de disponibilit\xc3\xa9 du vendredi 29 juin au dimanche 1er juillet (2
+    nuits). Cliquez sur le lien
+    <em>Changer les dates</em> pour modifier la s\xc3\xa9lection. Si vous
+    prenez votre chambre d'h\xc3\xb4tel par le lien ci-dessous, nous touchons
+    une petite commission&nbsp;: merci de votre aide&nbsp;!
+    </fr>
+    <en>
+    Note that the hotel link point to an availibility search from
+    Friday June 29 to Sunday July 1 (2 nights). Click on
+    the <em>Change dates</em> link to alter your selection. When you
+    book your hotel room through the link below, we earn a small
+    commission: thanks for your help!
+    </en>
+  </t>
+</p>
+
+<p><t><fr>H\xc3\xb4tels via</fr><en>Hotels via</en></t>
+<a href="http://www.booking.com/?aid=313263&lang=[% global.request.language %]">Booking.com</a></p>
+<p>
+<a href="http://www.booking.com/city/fr/strasbourg.html?aid=313263&lang=[% global.request.language %]&do_availability_check=on&checkin_monthday=29&checkin_year_month=2012-06&checkout_monthday=01&checkout_year_month=2011-07"><t><fr>Tous les hotels disponibles \xc3\xa0 Strasbourg</fr><en>All available hotels in Strasbourg</en></t></a></p>
+<p>
+  <t>
+   <fr>Une s\xc3\xa9lection d'h\xc3\xb4tels proches de la Cit\xc3\xa9 des Sciences et de l'Industrie par ordre croissant de prix. </fr>
+    <en>A selection of hotels near the Cite des Sciences et de l'Industrie in ascending order of price. </en>
+  </t>
+</p>
+
+<ul>
+
+[% PROCESS hotel
+   url  = '> http://www.booking.com/hotel/fr/michelet.fr.html'
+   name = 'Hotel Michelet'
+   star = 1
+%]
+[% PROCESS hotel
+   url  = 'http://www.booking.com/hotel/fr/citotel-des-arts.fr.html'
+   name = 'Citôtel Des Arts'
+   star = 2
+%]
+[% PROCESS hotel
+   url  = 'http://www.booking.com/hotel/fr/la-cruche-d-or.fr.html'
+   name = "La Cruche d'Or"
+   star = 2
+%]
+[% PROCESS hotel
+   url  = 'http://www.booking.com/hotel/fr/cathedrale-strasbourg.fr.html'
+   name = 'Hotel Cathédrale'
+   star = 3
+%]
+[% PROCESS hotel
+   url  = 'http://www.booking.com/hotel/fr/maisonrouge.fr.html'
+   name = 'Maison Rouge'
+   star = 3
+%]
+[% PROCESS hotel
+   url  = 'http://www.booking.com/hotel/fr/ra-c-sidence-catha-c-drale.fr.html'
+   name = 'Résidence Cathédrale'
+   star = 4
+%]
+
 
 
 <h2>
