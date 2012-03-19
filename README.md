@@ -8,7 +8,10 @@ Vendredi 29 et samedi 30 juin, hackathon le dimanche 1er juillet.
 
 # Lieu
 
-Epitech.
+Epitech
+4, rue du Dôme
+67000 Strasbourg
+
 Notre contact est Lionel Brosius.
 
 # Public
