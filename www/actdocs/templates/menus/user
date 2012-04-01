@@ -5,7 +5,7 @@
   <ul id="sidemenu">
 [% IF global.request.user %]
     [% WRAPPER menus/item %]
-    <a href="[% make_uri_info('user', global.request.user.user_id) %]">{{Logged as:}} [% global.request.user.login %]</a>
+    {{Logged as:}} [% global.request.user.login %]
     [% END %]
     [% WRAPPER menus/item %]
     <a href="[% make_uri('logout') %]">{{Logout}}</a>
