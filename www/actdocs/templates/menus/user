@@ -20,7 +20,6 @@
     <a href="[% make_uri('main') %]">{{Edit profile}}</a>
     [% END %]
 [% ELSE %]
-  <ul id="sidemenu">
     [% WRAPPER menus/item %]
     <a href="[% make_uri('main') %]">{{Log in}}</a>
     [% END %]
@@ -29,7 +28,6 @@
       <a href="[% make_uri('register') %]">{{New user}}</a>
       [% END %]
     [% END %]
-  </ul>
 [% END %]
   [% WRAPPER menus/item %]
   <a href="[% make_uri('search') %]">
