@@ -52,4 +52,5 @@
     {{Register a new user}}
   </a>
   [% END %]
+  [% END %]
 </ul>
