@@ -1,6 +1,5 @@
 [% FILTER collapse %]
   [% PROCESS menus/user %]
-  [% PROCESS menus/users %]
   [% PROCESS menus/talks %]
   [% PROCESS menus/news %]
 [% IF global.request.user.is_talks_admin %]
