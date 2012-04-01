@@ -5,8 +5,8 @@
 <!-- 
     <li><a href="[% make_uri('news') %]">{{News}}</a></li>
     <li><a href="#"><t><fr>Screencasts</fr><en>Screencasts</en></t></a></li>
--->
     <li><a href="[% make_uri('accomodation.html') %]"><t><fr>H&eacute;bergement</fr><en>Accomodations</en></t></a></li>
+-->
     <li><a href="[% make_uri('maps.html') %]"><t><fr>Lieu</fr><en>Venue</en></t></a></li>
     <li><a href="[% make_uri('sponsorship.html') %]"><t><fr>Sponsoriser</fr><en>be a Sponsor</en></t></a></li>
     <li><a href="[% make_uri('sponsors.html') %]"><t><fr>Sponsors</fr><en>Sponsors</en></t></a></li>
