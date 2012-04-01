@@ -1,12 +1,17 @@
+<ul id="sidemenu">
+[% IF global.request.user %]
+    [% WRAPPER menus/item %]
+    {{Logged as:}} [% global.request.user.login %]
+    [% END %]
+[% END %]
+</ul>
+
   <h3 id="sidemenu">
     {{Users}}
   </h3>
 
   <ul id="sidemenu">
 [% IF global.request.user %]
-    [% WRAPPER menus/item %]
-    {{Logged as:}} [% global.request.user.login %]
-    [% END %]
     [% WRAPPER menus/item %]
     <a href="[% make_uri('logout') %]">{{Logout}}</a>
     [% END %]
