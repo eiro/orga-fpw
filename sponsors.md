@@ -1,9 +1,8 @@
 # Liste des sponsors et status
 
 * teclib'
-
-  * responsable : 
-  * [x] contact - Chloé
+  * responsable : elbeho
+  * [x] contact - Chloé Robin
   * [x] ok : 500 €
   * [x] facture envoyée
   * [ ] logo et texte reçus
@@ -11,7 +10,7 @@
   * [x] paiement reçu
 
 * Booking.com
-  * responsable : 
+  * responsable : elbeho
   * [x] contact - anniek.veltman@booking.com - il faut donner signe de vie, mettre le site en anglais
   * [X] ok 
   * [ ] facture envoyée
@@ -21,8 +20,8 @@
 
 * linkfluence
   * responsable : marc
-  * [ ] contact - cmaussang - en attente de confirmation
-  * [ ] ok / pas ok - plutôt OK
+  * [x] contact - cmaussang - en attente de confirmation
+  * [x] ok : 500 €
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
@@ -39,15 +38,15 @@
 
 * Bib Libre
   * responsable : marc
-  * [ ] contact
-  * [ ] ok / pas ok
+  * [x] contact
+  * [x] ok : 500 €
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
   * [ ] paiement reçu
 
 * hedera tech
-  * responsable : 
+  * responsable : elbeho
   * [ ] contact - Romain Chanut - Recontacter Hedera courant avril
   * [ ] ok / pas ok - plutôt OK
   * [ ] facture envoyée
@@ -56,7 +55,7 @@
   * [ ] paiement reçu
 
 * Les Nouveaux Constructeurs
-  * responsable :
+  * responsable : elbeho
   * [ ] contact - Nicolas Rennert - vu par elbeho le 5/3/12, va demander
   * [ ] ok / pas ok
   * [ ] facture envoyée
@@ -65,9 +64,9 @@
   * [ ] paiement reçu
 
 * DDG
-  * responsable :
+  * responsable : marc
   * [X] contact - Getty
-  * [ ] ok / pas ok
+  * [X] pas ok (sauf si on est dans la merde)
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
@@ -83,7 +82,7 @@
   * [ ] paiement reçu
 
 * CACIIS (Conseil, infogérance, intégration)
-  * responsable : 
+  * responsable : elbeho
   * [X] contact - Florian Royer (via les offres d'emploi)
   * [X] ok 
   * [ ] facture envoyée
@@ -94,4 +93,5 @@
 # Ils ont refusé
 
   * FraudBuster (mail de Léonard Wauters du 9/3/12)
+  * Gandi
 
