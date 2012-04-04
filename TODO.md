@@ -20,14 +20,17 @@
 - organisation Beer Event/Attendee Diner
     - freres berthom ? 
     - prospecter winstub 
+    - mise au point nécessaire avec Marc pour délimiter le périmètre
 - CIARUS
     - 35.7€/nuit/personne avec petit-déjeuner (tarif groupe valable pour plus de 10 personnes)
     - On peut venir quand on veut, mais plus on tarde et moins on a de chance pour les disponibilités.
     - Paiement à la réservation.
 - FEC
-    - contactés, en attente de retour
+    - À ces dates là, ils ont encore des étudiants dans les chambres et les rares chambres libérées sont déjà réservées par un autre groupe.
+    - Ils nous conseillent de prendre contact avec… le CIARUS.
 - Sponsoring RBS
-    - contactés, en attente de retour
+    - Contactés, en attente de retour.
+    - Relancés le 2 avril. JM a eu d'autres soucis à régler, il s'y remet.
 
 # Delphine
 
