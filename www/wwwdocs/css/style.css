@@ -171,11 +171,12 @@ h1 span.details {
 }
 
 #sidebar h3#sidemenu {
+    font-size: 1em;
     list-style: none;
     margin: 0;
     border: 1px solid #ccc;
     border-bottom: none;
-    padding: 7px;
+    padding: 3px;
     background: #eee;
 }
 #sidebar h3#sidemenu a {
