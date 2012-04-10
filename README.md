@@ -20,9 +20,9 @@ Notre contact est Lionel Brosius.
 
 Qui mongueurs, étudiants, informaticiens en général.
 
-# Thématique
+# Thème
 
-"Rencontrer, Apprendre, Jouer, Créer" ??
+"Rencontrer, Apprendre, Jouer, Créer"
 
 # Format
 
