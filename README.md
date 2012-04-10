@@ -33,7 +33,7 @@ moins de confs et plus de "on se pause, on discute, on code, je peux te montrer 
 
 # Hébergement
 
-A priori au CIARUS, éventuellement au FEC.
+A priori au CIARUS.
 
 # Communication
 
