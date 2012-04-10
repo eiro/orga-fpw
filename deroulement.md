@@ -105,7 +105,6 @@ h1. classrooms
 # Hébergement
 
   * CIARUS : 30 lits, à réserver. -> en attente du paiement en ligne
-  * FEC
   * Hôtels
 
 # Autres
