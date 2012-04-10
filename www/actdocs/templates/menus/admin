@@ -1,8 +1,8 @@
 [% IF global.request.user.is_admin %]
-  <h3 id="sidemenu">
+  <h2>
     {{Admin}}
-  </h3>
-  <ul id="sidemenu">
+  </h2>
+  <ul class="content">
     [% WRAPPER menus/item %]
     <a href="[% make_uri('rights') %]">
       {{Rights management}}

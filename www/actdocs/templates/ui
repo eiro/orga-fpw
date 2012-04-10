@@ -32,9 +32,8 @@
     <body>
         <div id="main" class="container">
 
-            <h1>
+            <h1 class="titre">
                 <span class="ljp">[% title  %]</span><br/>
-                &nbsp;<br/>
 		<t>
 		<fr>
                 <span class="details">vendredi 29, samedi 30 juin 2012 à Strasbourg</span>
@@ -43,7 +42,6 @@
                 <span class="details">June 29-30, 2012 in Strasbourg</span>
 		</en>
 		</t>
-                [% PROCESS menus/languages %]
             </h1>
 
             <div id="menu">
@@ -51,9 +49,9 @@
             </div>
 
             <div id="features" class="columns clearfix">
-					<div><span class="legend"><t><fr>Toi aussi deviens un(e) geek(e) barbu(e) !</fr><en>You can also be a beared geek!</en></t></span></div>
-					<div><span class="legend"><t><fr>Franck présentant son projet <a href="#">StarGit</a> en 2011.</fr><en>Franck presenting StarGit, one of his projects</en></t></span></div>
-					<div><span class="legend"><t><fr>Plan d'accès</fr><en>Access map</en></t></span></div>
+		<div><span class="legend"><t><fr>Toi aussi deviens un(e) geek(e) barbu(e) !</fr><en>You can also be a beared geek!</en></t></span></div>
+		<div><span class="legend"><t><fr>Franck présentant son projet <a href="#">StarGit</a> en 2011.</fr><en>Franck presenting StarGit, one of his projects</en></t></span></div>
+		<div><span class="legend"><t><fr>Plan d'accès</fr><en>Access map</en></t></span></div>
             </div>
 
             <div id="center" class="clearfix">
@@ -61,7 +59,10 @@
                     [% content %]
                 </div>
                 <div id="sidebar">
-                    [% PROCESS menu2 %]
+            <div id="menu2">
+                [% PROCESS menu2 %]
+            </div>
+                [% PROCESS sponsors %]
                     [% PROCESS gallery %]
                 </div>
             </div>

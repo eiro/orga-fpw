@@ -38,6 +38,14 @@ a {
     -webkit-transition: background-color 0.1s linear;
 }
 
+h1.titre {
+    background-image: url('/fpw2012/img/logo_mongueurs.png');
+    background-repeat: no-repeat;
+    background-position: 4px 50%;
+    background-size: 100px;
+    padding: 36px 0 36px 120px;
+}
+
 h1 {
     background-image: url('/fpw2012/img/logo.png');
     background-repeat: no-repeat;
@@ -165,18 +173,161 @@ h1 span.details {
 .post a.google { background-image: url('google.png'); }
 .post a.yahoo { background-image: url('yahoo.png'); }
 
+#menu2 {
+	clear: both;
+	float: bottom;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #A8A8A8;
+    	/* border-radius: 10px; */
+	color: black;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	font-size: 12px;
+}
+
+#menu2 table {
+	margin: 0;
+}
+
+#menu2 a {
+	display: block;
+	margin: 0;
+}
+
+#menu2 a:link,
+#menu2 a:visited {
+	background-color: transparent;
+	color: black;
+	outline: none;
+	text-decoration: none;
+}
+
+#menu2 a:link:hover,
+#menu2 a:visited:hover {
+	background-color: #0EAAC6;
+	color: white;
+	outline: none;
+	text-decoration: none;
+}
+
+#menu2 .submenu {
+	display: block;
+	position: relative;
+	float: bottom;
+	margin: 0;
+	padding: 0;
+	cursor: default;
+}
+
+#menu2 .submenu .content {
+	display: none;
+	position: absolute;
+	top: 90%;
+	left: 30px;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+}
+
+#menu2 .submenu:hover .content,
+#menu2 .submenu .content:hover {
+	display: block;
+}
+
+#menu2 .submenu h2 {
+	margin: 0;
+	/* background-color: #999999; */
+	font-size: 100%;
+	font-style: normal;
+	font-weight: normal;
+	cursor: inherit;
+}
+
+#menu2 td {
+	padding: 0;
+        background-color: #eee;
+}
+
+
+#menu2 .submenu h2 a:link,
+#menu2 .submenu h2 a:visited {
+	background-color: transparent;
+}
+
+h2 a:link, h2 a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+#menu2 .submenu h2,
+#menu2 .submenu h2 a:link,
+#menu2 .submenu h2 a:visited {
+	padding: 0.5ex 1ex 0.5ex 1ex;
+	height: 1.3em;
+	color: black;
+	border-right: 1px solid #eee;
+}
+
+#menu2 .submenu h2.link {
+	padding: 0;
+	height: auto;
+	color: black;
+	border-right: none;
+}
+
+#menu2 .submenu h2.hllanguage {
+	background-color: #8590B8;
+}
+
+#menu2 .submenu:hover h2,
+#menu2 .submenu:hover h2 a:link,
+#menu2 .submenu:hover h2 a:visited {
+	background-color: #0EAAC6;
+	color: white;
+}
+
+#menu2 .submenu h2 a:link:hover,
+#menu2 .submenu h2 a:visited:hover {
+	background-color: #0EAAC6;
+	color: white;
+}
+
+#menu2 .submenu:hover h2.link {
+	background-color: transparent;
+	color: black;
+}
+
+#menu2 .submenu li {
+	padding: 0;
+	width: 35ex;
+	background-color: #AFAFAF;
+	font-size: 90%;
+	font-style: italic;
+	font-weight: normal;
+	cursor: inherit;
+	list-style-type: none;
+}
+
+#menu2 .submenu li a {
+	padding: 0.2ex 0.5ex 0.2ex 0.5ex;
+	border: 1px solid #CCCCCC;
+}
+
+
 #sidebar {
     float: left;
     width: 310px;
 }
 
 #sidebar h3#sidemenu {
-    font-size: 1em;
     list-style: none;
+    font-size: 1em;
     margin: 0;
     border: 1px solid #ccc;
     border-bottom: none;
-    padding: 3px;
+    padding: 7px;
     background: #eee;
 }
 #sidebar h3#sidemenu a {
@@ -207,7 +358,7 @@ h1 span.details {
 
 #sidebar ul#sidemenu li a {
     display: block;
-    padding: 7px;
+    padding: 3px;
     padding-left: 20px;
     border-bottom: 1px solid #ccc;
     background: #eee;

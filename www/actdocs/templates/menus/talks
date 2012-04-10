@@ -1,9 +1,12 @@
-<h3 id="sidemenu">
+<h2>
+    {{Presentations}}
+</h2>
+<ul class="content">
+  [% WRAPPER menus/item %]
   <a href="[% make_uri('talks') %]">
     {{Presentations}}
   </a>
-</h3>
-<ul id="sidemenu">
+  [% END %]
   [% WRAPPER menus/item %]
   <a href="[% make_uri('favtalks') %]">
     {{Favorite Talks}}

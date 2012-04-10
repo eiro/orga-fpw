@@ -1,17 +1,8 @@
-<ul id="sidemenu">
 [% IF global.request.user %]
-    [% WRAPPER menus/item %]
-    {{Logged as:}} [% global.request.user.login %]
-    [% END %]
-[% END %]
-</ul>
-
   <h3 id="sidemenu">
-    {{Users}}
+    <a href="[% make_uri_info('user', global.request.user.user_id) %]">{{Logged as:}} [% global.request.user.login %]</a>
   </h3>
-
   <ul id="sidemenu">
-[% IF global.request.user %]
     [% WRAPPER menus/item %]
     <a href="[% make_uri('logout') %]">{{Logout}}</a>
     [% END %]
@@ -23,7 +14,12 @@
     [% WRAPPER menus/item %]
     <a href="[% make_uri('main') %]">{{Edit profile}}</a>
     [% END %]
+  </ul>
 [% ELSE %]
+  <h3 id="sidemenu">
+    {{Register}}
+  </h3>
+  <ul id="sidemenu">
     [% WRAPPER menus/item %]
     <a href="[% make_uri('main') %]">{{Log in}}</a>
     [% END %]
@@ -32,27 +28,5 @@
       <a href="[% make_uri('register') %]">{{New user}}</a>
       [% END %]
     [% END %]
+  </ul>
 [% END %]
-  [% WRAPPER menus/item %]
-  <a href="[% make_uri('search') %]">
-    {{Search}}
-  </a>
-  [% END %]
-  [% WRAPPER menus/item %]
-  <a href="[% make_uri('stats') %]">
-    {{Statistics}}
-  </a>
-  [% END %]
-  [% IF global.request.user.is_users_admin %]
-  [% WRAPPER menus/item %]
-  <a href="[% make_uri('export') %]">
-    {{CSV export}}
-  </a>
-  [% END %]
-  [% WRAPPER menus/item %]
-  <a href="[% make_uri('create') %]">
-    {{Register a new user}}
-  </a>
-  [% END %]
-  [% END %]
-</ul>

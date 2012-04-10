@@ -1,18 +1,8 @@
-<h3 id="sidemenu">
-  <a href="[% make_uri('sponsors.html') %]">
-    <t>
-      <en>Sponsors</en>
-      <fr>Sponsors</fr>
-    </t>
-  </a>
-</h3>
-<ul id="sidemenu">
-  [% WRAPPER menus/item %]
+<h2 class="link">
   <a href="[% make_uri('sponsorship.html') %]">
     <t>
       <en>Sponsorship</en>
       <fr>Sponsoriser</fr>
     </t>
   </a>
-  [% END %]
-</ul>
+</h2>
