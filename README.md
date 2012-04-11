@@ -51,8 +51,8 @@ Kev et Aline
 ### Diffusion
 
  * affichage dans les différents locaux
- * le net (twitter, identi.ca, voir [Communication.ld](Communication.md)
- * envoi affiches (paris, lyon, ... ?) 
+ * le net (twitter, identi.ca, voir [Communication.md](Communication.md)
+ * envoi affiches (Paris, Lyon, ... ?) 
 
 
 ## Le site web
