@@ -11,7 +11,7 @@
 
 * Booking.com
   * responsable : elbeho
-  * [x] contact - anniek.veltman@booking.com - il faut donner signe de vie, mettre le site en anglais
+  * [x] contact - anniek.veltman@booking.com - mail le 13/04
   * [X] ok 
   * [ ] facture envoyée
   * [ ] logo et texte reçus
@@ -47,7 +47,7 @@
 
 * hedera tech
   * responsable : elbeho
-  * [ ] contact - Romain Chanut - Recontacter Hedera courant avril
+  * [x] contact - Romain Chanut - mail le 13/04
   * [ ] ok / pas ok - plutôt OK
   * [ ] facture envoyée
   * [ ] logo et texte reçus
@@ -56,7 +56,7 @@
 
 * Les Nouveaux Constructeurs
   * responsable : elbeho
-  * [ ] contact - Nicolas Rennert - vu par elbeho le 5/3/12, va demander
+  * [x] contact - Nicolas Rennert - vu par elbeho le 5/3/12, va demander, mail le 13/4
   * [ ] ok / pas ok
   * [ ] facture envoyée
   * [ ] logo et texte reçus
@@ -83,7 +83,7 @@
 
 * CACIIS (Conseil, infogérance, intégration)
   * responsable : elbeho
-  * [X] contact - Florian Royer (via les offres d'emploi)
+  * [X] contact - Florian Royer (via les offres d'emploi) - mail le 13/4
   * [X] ok 
   * [ ] facture envoyée
   * [ ] logo et texte reçus
