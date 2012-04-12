@@ -58,5 +58,5 @@ Kev et Aline
 ## Le site web
 
  * Le site de test est : http://test.mongueurs.net/fpw2012/
- * Le site de prod est : http://journeesperl.fr/ (http://journeesperl.fr/2012 , http://perlworkshop.fr/ , http://perlworkshop.fr/2012)
+ * Le site de prod est : http://journeesperl.fr/ (http://journeesperl.fr/fpw2012 , http://perlworkshop.fr/ , http://perlworkshop.fr/fpw2012)
  * Act (le système qui est dessous) gère les inscriptions (même si elles ne sont pas obligatoires, ça donne une idée du nb de personnes attendues), les talks, des news, un wiki, des rôles (admin, tresorier, news admin, wiki admin...)
