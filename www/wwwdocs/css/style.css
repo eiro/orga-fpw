@@ -389,8 +389,30 @@ h2 a:link, h2 a:visited {
 
 #footer h3 {
     color: #999;
-    text-shadow: 1px 1px 1px #666;
+    /* text-shadow: 1px 1px 1px #666; */
 }
+
+#footer h3 a {
+    color: #999;
+    display: block;
+    text-decoration: none;
+}
+
+#footer h3 a:hover {
+    color: #ccc;
+    background: #484848;
+    background: -webkit-gradient(
+        linear,
+        left top,
+        right top,
+        color-stop(0.0, #555),
+        color-stop(0.5, #484848),
+        color-stop(1.0, #444)
+    );
+    border-left: 4px solid #999;
+    padding-left: 4px;
+}
+
 
 #footer ul {
     padding: 0;
