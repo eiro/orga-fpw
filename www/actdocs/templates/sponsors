@@ -1,53 +1,39 @@
   [% isponsors = [] %]
   [% BLOCK isponsor %]
     [% WRAPPER menus/section %]
-    <p><a class="icon" href="[% url %]"><img class="icon" src="[% make_uri('img')%]/[% img %]" alt="[% name %]" title="[% name %]" /></a></p>
+    <p><a class="icon" href="[% url %]"><img class="icon" width="310" src="[% make_uri('img')%]/[% img %]" alt="[% name %]" title="[% name %]" /></a></p>
     [% END %]
   [% END %]
 
 <center>
   [% WRAPPER menus/section %]
-  &nbsp;<br /><a href="[% make_uri('sponsors.html') %]">Sponsors</a>
+  <a href="[% make_uri('sponsors.html') %]">Sponsors</a>
   [% END %]
 
   [% WRAPPER isponsor
-  img = 'logo.citesciences.small.png'
-  name = "Cité des Sciences et de l'Industrie"
-  url = 'http://www.cite-sciences.fr/'
+  img = 'logo.epitech.small.jpg'
+  name = 'Epitech'
+  url = 'http://www.epitech.eu/'
+  lnk = 'epitech'
   %]
   [% END %]
 
   [% WRAPPER isponsor
-  img = 'logo_linkfluence_small.png'
-  name = 'Linkfluence'
-  url = 'http://www.linkfluence.net'
-  lnk = 'linkfluence'
+  img = "logo.teclib.large.png"
+  name = "TECLIB'"
+  url = 'http://teclib.com/'
+  lnk = 'teclib'
   %]
   [% END %]
 
   [% WRAPPER isponsor
-  img = 'logo_biblibre_small.png'
-  name = 'BibLibre'
-  url = 'http://www.biblibre.com/'
-  lnk = 'biblibre'
+  img = "logo_oreilly.gif"
+  name = "O'Reilly"
+  url = "http://www.linkfluence.net"
+  lnk = "oreilly"
   %]
   [% END %]
 
-  [% WRAPPER isponsor
-  img = 'logo.weborama.small.jpg'
-  name = 'weborama'
-  url = 'http://weborama.com/'
-  lnk = 'weborama'
-  %]
-  [% END %]
-
-  [% WRAPPER isponsor
-  img = 'logo.bookingcom.small.jpg'
-  name = 'Booking.com B.V.'
-  url = 'http://www.booking.com/jobs'
-  lnk = 'bookingcom'
-  %]
-  [% END %]
 
 </center>
 

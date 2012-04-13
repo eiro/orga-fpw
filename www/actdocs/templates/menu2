@@ -1,89 +1,107 @@
 [% FILTER collapse %]
-<table>
-<tr>
-<td>
-<div class="submenu">
-  [% PROCESS menus/languages %]
+<div id="menu2">
+  <table>
+    <tr>
+      <td>
+        <div class="submenu">
+        [% PROCESS menus/languages %]
+        </div>
+      </td>
+      <td>
+        [% IF global.request.user %]
+        <div class="submenu">
+          {{Logged as:}} [% global.request.user.login %]
+        </div>
+        [% END %]
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="submenu">
+        [% PROCESS menus/users %]
+        </div>
+      </td>
+      <td>
+        <div class="submenu">
+          [% IF global.request.user %]
+          <h2 class="link">
+            <a href="[% make_uri('logout') %]"> {{Logout}} </a>
+          </h2>
+          [% END %]
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="submenu">
+        [% PROCESS menus/talks %]
+        </div>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="submenu">
+          <h2 class="link">
+            <a href="[% make_uri('news') %]">{{News}}</a>
+          </h2>
+        </div>
+      </td>
+      <td>
+        [% IF global.request.user.is_news_admin %]
+        <div class="submenu">
+          <h2 class="link">
+            <a href="[% make_uri('newsadmin') %]">{{News Administration}}</a>
+          </h2>
+        </div>
+        [% END %]
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="submenu">
+          [% PROCESS menus/sponsors %]
+        </div>
+      </td>
+      <td>
+        [% IF global.request.user.is_treasurer %]
+        <div class="submenu">
+          [% PROCESS menus/treasurer %]
+        </div>
+        [% END %]
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="submenu">
+        [% PROCESS menus/information %]
+        </div>
+      <td class="submenu">
+        [% IF global.request.user.is_admin %]
+        <div class="submenu">
+          [% PROCESS menus/admin %]
+        </div>
+        [% END %]
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div class="submenu">
+          <h2 class="link">
+          <t>
+            <fr>
+              <b><a href="[% make_uri('buzz.html') %]">Faites de la pub pour les Journ&eacute;es Perl 2012 !</a></b>
+            </fr>
+            <en>
+              <b><a href="[% make_uri('buzz.html') %]">Advertise FPW2012!</a></b>
+            </en>
+          </t>
+          </h2>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-</td>
-<td>
-[% IF global.request.user %]
-<div class="submenu">
-    {{Logged as:}} [% global.request.user.login %]
-</div>
-[% END %]
-</td>
-</tr>
-<tr>
-<td>
-<div class="submenu">
-  [% PROCESS menus/users %]
-</div>
-</td>
-<td>
-<div class="submenu">
-[% IF global.request.user %]
-<h2 class="link">
-    <a href="[% make_uri('logout') %]"> {{Logout}} </a>
-</h2>
 [% END %]
 
-</div>
-</td>
-</tr>
-<tr>
-<td>
-<div class="submenu">
-  [% PROCESS menus/talks %]
-</div>
-</td>
-<td>
-</td>
-</tr>
-<tr>
-<td>
-<div class="submenu">
-<h2 class="link">
-  <a href="[% make_uri('news') %]">{{News}}</a>
-</h2>
-</div>
-</td>
-<td>
-[% IF global.request.user.is_news_admin %]
-<div class="submenu">
-  <h2 class="link">
-  <a href="[% make_uri('newsadmin') %]">{{News Administration}}</a>
-  </h2>
-</div>
-[% END %]
-</td>
-</tr>
-<tr>
-<td>
-<div class="submenu">
-  [% PROCESS menus/sponsors %]
-</div>
-</td>
-<td>
-[% IF global.request.user.is_treasurer %]
-<div class="submenu">
-  [% PROCESS menus/treasurer %]
-</div>
-[% END %]
-</td>
-</tr>
-<tr>
-<td>
-<div class="submenu">
-  [% PROCESS menus/information %]
-</div>
-<td class="submenu">
-[% IF global.request.user.is_admin %]
-<div class="submenu">
-  [% PROCESS menus/admin %]
-</div>
-[% END %]
-</td>
-</tr>
-</table>
-[% END %]

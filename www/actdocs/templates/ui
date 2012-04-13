@@ -3,85 +3,83 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="[% global.request.language %]" xml:lang="[% global.request.language %]">
 
-    <head>
-        <!-- Document Metadata -->
-        <meta http-equiv="Content-Language" content="[% global.request.language %]" />
-        <!-- OpenId -->
-        [% IF openid %]
-        <link rel="openid.server" href="[% global.request.base_url %][% make_uri('openid') %]" />
-        [% END %]
-        <!-- Atom news feed -->
-        <link rel="alternate" type="application/atom+xml" title="[% global.conference.name %]"
-              href="[% global.request.base_url %][% make_uri_info( 'atom', global.request.language ) %].xml" />
-        [%- IF title -%]<title>[% title  %]</title>[%- END -%]
+  <head>
+    <!-- Document Metadata -->
+    <meta http-equiv="Content-Language" content="[% global.request.language %]" />
+    <!-- OpenId -->
+    [% IF openid %]
+      <link rel="openid.server" href="[% global.request.base_url %][% make_uri('openid') %]" />
+    [% END %]
+    <!-- Atom news feed -->
+    <link rel="alternate" type="application/atom+xml" title="[% global.conference.name %]"
+          href="[% global.request.base_url %][% make_uri_info( 'atom', global.request.language ) %].xml" />
+    [%- IF title -%]<title>[% title  %]</title>[%- END -%]
 
-        <!-- CSS Stylesheets -->
-        <link rel="stylesheet" type="text/css" href="[% make_uri_info('css', 'blueprint/screen.css') %]" />
-        <link rel="stylesheet" type="text/css" href="[% make_uri_info('css', 'style.css') %]" />
-        <link rel="stylesheet" type="text/css" href="/css/act-base.css" />
-        <link rel="stylesheet" type="text/css" href="/css/schedule.css" />
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="[% make_uri_info('css', 'blueprint/screen.css') %]" />
+    <link rel="stylesheet" type="text/css" href="[% make_uri_info('css', 'style.css') %]" />
+    <link rel="stylesheet" type="text/css" href="/css/act-base.css" />
+    <link rel="stylesheet" type="text/css" href="/css/schedule.css" />
 
-        <!-- JavaScript sugar -->
-        <script type="text/javascript" src="/js/jquery.js"></script>
-        <script type="text/javascript" src="/js/act.js"></script>
+    <!-- JavaScript sugar -->
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/act.js"></script>
 
-        <!-- Favorite icon -->
-        <link rel="shortcut icon" type="image/png" href="/favicon.png" />
-    </head>
+    <!-- Favorite icon -->
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+  </head>
 
-    <body>
-        <div id="main" class="container">
+  <body>
+    <div id="main" class="container">
 
-            <h1 class="titre">
-                <span class="ljp">[% title  %]</span><br/>
-		<t>
-		<fr>
-                <span class="details">vendredi 29, samedi 30 juin 2012 à Strasbourg</span>
-		</fr>
-		<en>
-                <span class="details">June 29-30, 2012 in Strasbourg</span>
-		</en>
-		</t>
-            </h1>
+      <h1 class="titre">
+        <span class="ljp">[% title  %]</span><br/>
+        <t>
+          <fr>
+            <span class="details">vendredi 29, samedi 30 juin 2012 à Strasbourg</span>
+          </fr>
+          <en>
+            <span class="details">June 29-30, 2012 in Strasbourg</span>
+          </en>
+        </t>
+      </h1>
 
-            <div id="menu">
-                [% PROCESS menu1 %]
-            </div>
+      <div id="menu">
+        [% PROCESS menu1 %]
+      </div>
 
-            <div id="features" class="columns clearfix">
-		<div><span class="legend"><t><fr>Toi aussi deviens un(e) geek(e) barbu(e) !</fr><en>You can also be a beared geek!</en></t></span></div>
-		<div><span class="legend"><t><fr>Franck présentant son projet <a href="#">StarGit</a> en 2011.</fr><en>Franck presenting StarGit, one of his projects</en></t></span></div>
-		<div><span class="legend"><t><fr>Plan d'accès</fr><en>Access map</en></t></span></div>
-            </div>
+      <div id="features" class="columns clearfix">
+        <div><span class="legend"><t><fr>Toi aussi deviens un(e) geek(e) barbu(e) !</fr><en>You can also be a beared geek!</en></t></span></div>
+        <div><span class="legend"><t><fr>Franck présentant son projet <a href="#">StarGit</a> en 2011.</fr><en>Franck presenting StarGit, one of his projects</en></t></span></div>
+        <div><span class="legend"><t><fr>Plan d'accès</fr><en>Access map</en></t></span></div>
+      </div>
 
-            <div id="center" class="clearfix">
-                <div id="page">
-                    [% content %]
-                </div>
-                <div id="sidebar">
-            <div id="menu2">
-                [% PROCESS menu2 %]
-            </div>
-                [% PROCESS sponsors %]
-                    [% PROCESS gallery %]
-                </div>
-            </div>
-
+      <div id="center" class="clearfix">
+        <div id="page">
+          [% content %]
         </div>
+        <div id="sidebar">
+          [% PROCESS menu2 %]
+          [% PROCESS gallery %]
+          [% PROCESS sponsors %]
+        </div>
+      </div>
+
+    </div>
  
-        <div id="footer">
-            <div id="footerwrapper" class="container">
-                <div class="columns clearer">
-                    <div>
-                        [% PROCESS menus/pre_confs %]
-                    </div>
-                    <div>
-                        [% PROCESS menus/act_confs %]
-                    </div>
-                </div>
-            </div>
-            <p id="copyright">Copyright &copy; Les Mongueurs de Perl, 2011-2012 - Powered by <a href="http://act.mongueurs.net/">Act</a></p>
+    <div id="footer">
+      <div id="footerwrapper" class="container">
+        <div class="columns clearer">
+          <div>
+            [% PROCESS menus/pre_confs %]
+          </div>
+          <div>
+            [% PROCESS menus/act_confs %]
+          </div>
         </div>
+      </div>
+      <p id="copyright">Copyright &copy; Les Mongueurs de Perl, 2011-2012 - Powered by <a href="http://act.mongueurs.net/">Act</a></p>
+    </div>
 
-    </body>
+  </body>
 </html>
