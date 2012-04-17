@@ -5,15 +5,15 @@
   * [x] contact - Chloé Robin
   * [x] ok : 500 €
   * [x] facture envoyée
-  * [ ] logo et texte reçus
-  * [ ] logo et texte sur le site
+  * [x] logo et texte reçus
+  * [x] logo et texte sur le site
   * [x] paiement reçu
 
 * Booking.com
   * responsable : elbeho
   * [x] contact - anniek.veltman@booking.com - mail le 13/04
-  * [X] ok 
-  * [ ] facture envoyée
+  * [x] ok : 500 €
+  * [x] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
   * [ ] paiement reçu
@@ -63,15 +63,6 @@
   * [ ] logo et texte sur le site
   * [ ] paiement reçu
 
-* DDG
-  * responsable : marc
-  * [X] contact - Getty
-  * [X] pas ok (sauf si on est dans la merde)
-  * [ ] facture envoyée
-  * [ ] logo et texte reçus
-  * [ ] logo et texte sur le site
-  * [ ] paiement reçu
-
 * RBS
   * responsable : 
   * [ ] contact - cf alex
@@ -94,4 +85,8 @@
 
   * FraudBuster (mail de Léonard Wauters du 9/3/12)
   * Gandi
+  * DDG
+    * responsable : marc
+    * [X] contact - Getty
+    * [X] pas ok (sauf si on est dans la merde)
 
