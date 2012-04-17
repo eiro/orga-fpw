@@ -1,6 +1,5 @@
 # Le plus tôt possible
   * le logo et l'affiche
-  * le site (fr et en)
   * contacter les sponsors (voir [sponsors.md](sponsors.md)
   * trouver des conférenciers
   * hébergement : CIARUS, hôtels
@@ -17,9 +16,6 @@
  * Affiches : commande
  * Affiches : réception
  * Campagne d'affichage
- * Monter les vidéos
- * Publier les vidéos
- * Savoir comment diffuser les vidéos (choix du site (YouTube, DM, blip.tv...) et avoir les comptes associés au besoin)
  * Conception des badges
  * Fabrication des badges
  * Réception des badges
@@ -27,7 +23,6 @@
  * Contacter Linux.org pour annoncer l'événement
  * Contacter Programmez.com pour annoncer l'événement
  * Contacter Developpez.com pour annoncer l'événement
- * Mettre la conf dans l'Agenda du Libre
  * Démarrer la campagne de comm' (pour le public)
 
 
@@ -68,5 +63,15 @@
 # après
 
  * remercier les gens, monter les videos et les publier, faire un article dans GLMF (ou ailleurs), faire un feedback
- 
 
+# Ca, c'est fait
+
+  * le site (fr et en)
+ * Mettre la conf dans l'Agenda du Libre
+
+
+# N'a pas lieu d'être
+
+ * Monter les vidéos
+ * Publier les vidéos
+ * Savoir comment diffuser les vidéos (choix du site (YouTube, DM, blip.tv...) et avoir les comptes associés au besoin)
