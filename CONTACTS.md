@@ -19,7 +19,7 @@ Marc Chantreux
     * communication communautaire
   * par 
     * Mail : 		khatar(at)phear(point)org
-    * Tel:            03.68.85.16.71
+    * Tel:            03.68.85.57.40
     * Github : 	eiro
     * IRC : 		eiro
   * Roles:
