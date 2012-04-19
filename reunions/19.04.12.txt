@@ -1,0 +1,63 @@
+Compte rendu de la réunion du 19 avril 2012 sur irc.
+
+Présents : Delphine, Marc, Laurent, Alexandre, Emmanuel.
+
+SPONSORS
+
+Laurent à de quoi faire : plusieurs factures à envoyer, les infos booking à mettre en ligne. Il fait ça d'ici ce week-end.
+
+Du côté de RBS, le climat est tendu, Alexandre continue de les "travailler" discrètement mais on ne compte plus sur eux.
+
+LOGO
+
+On est pas tous d'accord pour payer un graphiste, Delphine va demander à 2 non pro et 2 pro pour un logo gratuit ce week-end.
+
+FLYERS 
+
+Laurant propose de reparler des flyers quand on aura avancé sur le logo.
+Delphine signale qu'une fois qu'on aura le logo, elle peut faire la partie mise en page du flyers par son colocataire, gratuitement.
+
+AFFICHE
+
+On doit la compléter rapidement avec les logos des partenaires, pour faire 2-3 tirages d'essai. La taille retenue est A2.
+Les logos demander doivent être vectoriel, genre svg ou propriétaire, ou PNG le plus gros possible.
+
+On met une deadline, le samedi 28 avril pour passer les logos à Aline.
+
+RESEAUX SOCIAUX
+
+On cherche un volontaire pour twitter et identi.ca. Delphine n'est pas sur les réseaux sociaux, Marc se propose pour Google et Facebook, Laurent sur Twitter pour le moment.
+
+REU IRC 
+
+On définit tous les mardi midi 13h sur irc, #jp12 de freenode.
+
+REU IRL
+
+Une réunion se tiendra le samedi 5 mai au matin.
+
+CIARUS
+
+On a définit la deadline des réservations au 16 mai "officiellement". Réellement on les ferme le 21 mai.
+Laurant fait la 1ere news et s'assure que les relances soient publiées aussi.
+
+PROCHAINE REUNION
+
+IRC, le mardi 24/04.
+
+Il faut qu'on parle de la demande du speaker de PDL et de l'aide aux speakers de facon générale.
+
+[Emenems] -> Sur la base des logos disponibles le samedi 28, qu'elle sera la date de dispo de l'affiche ?
+
+Qui s'occupe de commander/ faire imprimer  les affiches.
+
+
+TODO Marc
+
+Marc signale sa todo-list à court-terme :
+
+a) relancer les groupes de classroom 
+b) faire la chasse aux sponsors 
+c) faire le message pour linuxmag
+
+
