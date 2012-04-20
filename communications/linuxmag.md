@@ -8,8 +8,14 @@ Même dans l'organisation de la communauté, les Français sont présents : Boo
 
 Pourtant, le futur proche promet d'être aussi intense pour Perl que l'ont été ces dernières années : Perl 5.16, les premiers usages de Perl6, Dancer 2, les ports de SPORE dans les autres langages, l'évolution des outils de test et d'intégration continue, de PDL (Perl Data Language)… Il est temps de venir découvrir ou redécouvrir Perl, il est temps de rencontrer non seulement le langage, l'écosystème mais aussi les personnes qui sont derrière tous ces trésors. Il est temps de venir jouer avec ces outils, de vous les approprier et de vous rendre compte à quel point ils sont simples et efficaces.
 
-En participant à des ateliers de programmation Perl6, des ateliers de programmation web, des rencontres avec des professionnels, les conférences de professionnels utilisant quotidiennement Perl, ou simplement pour participer aux événements sociaux (Beer events, Attendee dinner…), venez rencontrer, jouer, apprendre, créer ! 
+Les vendredi 29 et samedi 30, les Mongueurs de Perl organisent à l'Epitech de Strasbourg leurs 9e Journées Perl (http://journeesperl.fr/).
+
+Vous assisterez à des conférences de professionnels comme de hackers utilisant quotidiennement Perl. Nous proposerons aussi des ateliers de programmation Perl6, des ateliers de programmation web, des rencontres avec des professionnels. Il ya aura bien entendu des événements plus "sociaux" (Beer events, Attendee dinner…).
+
+Venez rencontrer, jouer, apprendre, créer ! les 29 et 30 juin, à l'Epitech de Strasbourg.
 
 À bientôt.
 
 Les Mongueurs
+
+http://journeesperl.fr/
