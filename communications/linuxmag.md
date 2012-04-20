@@ -7,13 +7,13 @@ moderniser sans perdre sa rétrocompatibilité si chère à sa communauté. Jess
 Vincent, pumpkin depuis 2009, a su imposer une vision dynamique du futur de
 Perl.
 
-Perl n'est pas seulement en train de devenir plus robuste, plus léger et plus
-rapide : il a vu sa syntaxe évoluer (les nouveaux opérateurs, les structures de
-contrôle, les built-ins plus souples dans la gestion des références font que le
-langage est de plus en plus simple à apprendre sans renier son expressivité)
-dans l'inspiration qu'a donné Perl6.
+Perl n'est pas seulement en train de devenir plus robuste, plus extensible et plus
+rapide. Il a vu sa syntaxe s'enrichir en empruntant des opérateurs et de
+structures de contrôle de Perl6 et en rendant le déréférencement optionel pour
+l'utilisation de certaines built-ins. Globalement, le langage est plus simple a
+utiliser sans perdre de son expressivité.
 
-Le langage s'est aussi modernisé grâce à son écosystème : le CPAN propose des
+Des évolutions sont aussi nées hors de l'interpréteur: le CPAN propose des
 modules dont certains sont devenus standards de fait pour la programmation
 objet et métaobjet grâce à Moose (dont la syntaxe est très inspirée de Perl6),
 la programmation fonctionnelle (avec les implementations inspirées par Higher
