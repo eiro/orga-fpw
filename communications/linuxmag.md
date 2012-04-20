@@ -49,11 +49,12 @@ Perl6, des ateliers de programmation web, des rencontres avec des
 professionnels. Il ya aura bien entendu des événements plus "sociaux" (Beer
 events, Attendee dinner…).
 
-Venez rencontrer, jouer, apprendre, créer ! les 29 et 30 juin, à l'Epitech de
-Strasbourg.
+Venez rencontrer, jouer, apprendre, et créer les 29 et 30 juin, à l'Epitech de
+Strasbourg. Vous pouvez participer aux activitées (toutes gratuites) ou en
+proposer de nouvelles via le site de l'évenement (http://journeesperl.fr),
+inscrivez-vous aussi au wiki pour réserver restaurants et heberbements.
+
 
 À bientôt.
 
 Les Mongueurs
-
-http://journeesperl.fr/
