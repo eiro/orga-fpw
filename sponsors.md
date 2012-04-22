@@ -11,16 +11,16 @@
 
 * Booking.com
   * responsable : elbeho
-  * [x] contact - anniek.veltman@booking.com - mail le 13/04
+  * [x] contact - anniek.veltman@booking.com
   * [x] ok : 500 €
   * [x] facture envoyée
-  * [ ] logo et texte reçus
-  * [ ] logo et texte sur le site
+  * [x] logo et texte reçus
+  * [x] logo et texte sur le site
   * [ ] paiement reçu
 
 * linkfluence
   * responsable : marc
-  * [x] contact - cmaussang - en attente de confirmation
+  * [x] contact - cmaussang 
   * [x] ok : 500 €
   * [ ] facture envoyée
   * [ ] logo et texte reçus
@@ -65,8 +65,8 @@
 
 * RBS
   * responsable : 
-  * [ ] contact - cf alex
-  * [ ] ok / pas ok
+  * [X] contact - cf alex
+  * [ ] pas ok pour l'instant
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
@@ -76,6 +76,15 @@
   * responsable : elbeho
   * [X] contact - Florian Royer (via les offres d'emploi) - mail le 13/4
   * [X] ok 
+  * [ ] facture envoyée
+  * [ ] logo et texte reçus
+  * [ ] logo et texte sur le site
+  * [ ] paiement reçu
+
+* SPLIO
+  * responsable : elbeho
+  * [X] contact - Raphaël Jore (mail le 22 avr)
+  * [ ] ok / pas OK
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
