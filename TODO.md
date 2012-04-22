@@ -1,7 +1,6 @@
 # Actions en cours
 
   - [elbeho] émettre les factures
-  - [elbeho] Mettre la DL (16 mai) de réservation CIARUS sur le site + news + twitter + identi.ca
   - [elbeho] 21/05 : bloquer les résa sur le site
   - [elbeho] mettre les infos Booking.com en ligne
   - [delphine] Voir avec des graphistes pro et non-pro pour un logo, avoir des devis  le cas échéant
@@ -16,6 +15,7 @@
 
 # Actions finies
 
+  - [elbeho] Mettre la DL (16 mai) de réservation CIARUS sur le site + news + twitter + identi.ca
 
 
 # Orphaned
