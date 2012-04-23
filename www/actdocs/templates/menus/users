@@ -4,12 +4,6 @@
 
   <ul class='content'>
 [% IF global.request.user %]
-    [% WRAPPER menus/item %]
-    {{Logged as:}} [% global.request.user.login %]
-    [% END %]
-    [% WRAPPER menus/item %]
-    <a href="[% make_uri('logout') %]">{{Logout}}</a>
-    [% END %]
     [% UNLESS global.request.user.participation OR global.config.closed %]
       [% WRAPPER menus/item %]
       <a href="[% make_uri('register') %]">{{Register}}</a>

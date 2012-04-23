@@ -2,13 +2,17 @@
 <div id="menu2">
   <table>
     <tr>
+        [% IF global.request.user %]
       <td>
+        [% ELSE %]
+      <td colspan="2">
+        [% END %]
         <div class="submenu">
         [% PROCESS menus/languages %]
         </div>
+        [% IF global.request.user %]
       </td>
       <td>
-        [% IF global.request.user %]
         <div class="submenu">
           {{Logged as:}} [% global.request.user.login %]
         </div>
@@ -16,7 +20,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="50%">
         <div class="submenu">
         [% PROCESS menus/users %]
         </div>
@@ -27,6 +31,8 @@
           <h2 class="link">
             <a href="[% make_uri('logout') %]"> {{Logout}} </a>
           </h2>
+          [% ELSE %]
+            [% PROCESS menus/connection %]
           [% END %]
         </div>
       </td>
@@ -38,6 +44,11 @@
         </div>
       </td>
       <td>
+        <div class="submenu">
+          [% UNLESS global.request.user %]
+            [% PROCESS menus/subscribe %]
+          [% END %]
+        </div>
       </td>
     </tr>
     <tr>
@@ -77,7 +88,8 @@
         <div class="submenu">
         [% PROCESS menus/information %]
         </div>
-      <td class="submenu">
+      </td>
+      <td>
         [% IF global.request.user.is_admin %]
         <div class="submenu">
           [% PROCESS menus/admin %]
@@ -91,7 +103,7 @@
           <h2 class="link">
           <t>
             <fr>
-              <b><a href="[% make_uri('buzz.html') %]">Faites de la pub pour les Journ&eacute;es Perl 2012 !</a></b>
+              <b><a href="[% make_uri('buzz.html') %]">Buzzer pour les Journ&eacute;es Perl 2012 !</a></b>
             </fr>
             <en>
               <b><a href="[% make_uri('buzz.html') %]">Advertise FPW2012!</a></b>
