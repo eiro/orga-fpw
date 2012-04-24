@@ -1,0 +1,32 @@
+Réunion hebdo du 24/04/12
+
+
+Présents (par ordre de pseudo) : afranke, delphine, eiro, elbeho, sdo
+Avec des retards plus ou moins longs.
+
+elbeho fait part de son désœuvrement face à son impression que rien
+n’avance et que les organisateurs semblent s’en accommoder.
+Le nombre de présentations (2h30) en particulier l’inquiète.
+afranke rappelle qu’hormis eiro, les autres organisateurs strasbourgeois
+ne sont pas de la communauté Perl et qu’ils ne sont pas en mesure de
+trouver des speakers.
+
+sdo propose d’amener du café, mais elbeho propose qu’on voie ces aspects
+en juin (voire qu’ils soient pris en charge localement).
+
+eiro fait part de ses travaux pour amener des speakers : la track Perl6
+est en route (cat, jnthn, masak, cognominal_, sdo), PDL, web (cmaussng,
+dams, sukria). sdo confirme que ça avance sur perl6.
+elbeho déplore que ce ne soit pas plus apparent sur la liste, sur le
+canal, sur le github.
+Le speaker sur PDL demande une prise en charge de ses frais de
+déplacement (100 € + 2 ou 3 nuits au CIARUS).
+eiro approuve. delphine confirme.
+eiro va relancer une comm sur les listes pour rappeler aux gens de
+soumettre (avec relance régulière).
+jnthn et masak seront remboursés aussi (~200 € / chacun).
+
+delphine annonce que côté logo, son coloc (non pro) travaille sur un
+projet, l’autre non-pro est hors course. Elle contacte dans la semaine
+les pros.
+
