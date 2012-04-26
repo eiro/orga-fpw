@@ -22,27 +22,27 @@
   * responsable : marc
   * [x] contact - cmaussang 
   * [x] ok : 500 €
-  * [ ] facture envoyée
-  * [ ] logo et texte reçus
-  * [ ] logo et texte sur le site
+  * [X] facture envoyée
+  * [X] logo et texte reçus
+  * [X] logo et texte sur le site
   * [ ] paiement reçu
 
 * weborama
   * responsable : marc
-  * [ ] contact - sukria, dams - on attend la décision
-  * [ ] ok / pas ok
-  * [ ] facture envoyée
-  * [ ] logo et texte reçus
-  * [ ] logo et texte sur le site
+  * [X] contact - sukria, dams
+  * [X] ok : 500 eur
+  * [X] facture envoyée
+  * [X] logo et texte reçus
+  * [X] logo et texte sur le site
   * [ ] paiement reçu
 
 * Bib Libre
   * responsable : marc
   * [x] contact
   * [x] ok : 500 €
-  * [ ] facture envoyée
-  * [ ] logo et texte reçus
-  * [ ] logo et texte sur le site
+  * [X] facture envoyée
+  * [X] logo et texte reçus
+  * [X] logo et texte sur le site
   * [ ] paiement reçu
 
 * hedera tech
