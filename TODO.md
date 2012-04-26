@@ -1,9 +1,7 @@
 # Actions en cours
 
-  - [elbeho] émettre les factures
   - [elbeho] 21/05 : bloquer les résa sur le site
   - [delphine] Voir avec des graphistes pro et non-pro pour un logo, avoir des devis  le cas échéant
-  - [elbeho] fournir les logos des sponsors pour l'affiche
   - [eiro] relancer les groupes de classroom
   - [eiro] chasse aux sponsors
   - [eiro] message pour GLMF
@@ -16,6 +14,8 @@
 
   - [elbeho] Mettre la DL (16 mai) de réservation CIARUS sur le site + news + twitter + identi.ca
   - [elbeho] mettre les infos Booking.com en ligne
+  - [elbeho] émettre les factures
+  - [elbeho] fournir les logos des sponsors pour l'affiche : dans [visuels]
 
 
 # Orphaned
