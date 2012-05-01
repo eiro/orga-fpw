@@ -3,7 +3,8 @@
 
 # Budget prévisionnel
 
-[elbeho] pour info, comme eiro ne m'a pas fourni beaucoup de détail, j'ai budgeté 2000 € de dépenses et 2500 € de recettes. Ce n'est qu'indicatif. C'est basé sur les précédentes Journées Perl et sur le sens du vent :-)
+Ici :
+https://docs.google.com/spreadsheet/ccc?key=0At53jToM-PnldHBhODd3Ti1uWktLSTl3akR5UnIzN3c
 
 # Sponsors privés
 
@@ -19,13 +20,3 @@ Proposition :
  * 1500€, un stand
 
 Les sponsors sont plus généreux qu'on ne peut le croire. Demandez 1000 € si on vous pose la question, accepter 200 € si la structure ne peut/veut pas payer 1000.
-
-## Sponsors confirmés
-
- * teclib' 500 € (facture envoyée, paiement reçu)
-
-
-# Financement public
-
-On demande à qui ? Combien de dossier à constituer ?
-

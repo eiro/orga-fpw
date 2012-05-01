@@ -27,6 +27,22 @@
   [% END %]
 
   [% WRAPPER isponsor
+  img = "logo.booking.small.jpg"
+  name = "Booking.com"
+  url = 'http://booking.com/'
+  lnk = 'booking'
+  %]
+  [% END %]
+
+  [% WRAPPER isponsor
+  img = "logo_biblibre_large.png"
+  name = "BibLibre"
+  url = 'http://biblibre.com/'
+  lnk = 'biblibre'
+  %]
+  [% END %]
+
+  [% WRAPPER isponsor
   img = "logo_oreilly.gif"
   name = "O'Reilly"
   url = "http://www.linkfluence.net"

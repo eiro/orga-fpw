@@ -1,0 +1,6 @@
+[% UNLESS global.request.user %]
+  <h2 class="link">
+    <a href="[% make_uri('main') %]">{{Log in}}</a>
+  </h2>
+[% END %]
+

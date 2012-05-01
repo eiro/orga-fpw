@@ -143,9 +143,18 @@ h1 span.details {
 
 #page {
     float: left;
-    width: 630px;
-    margin-right: 10px;
+    width: 620px;
+    margin-right: 20px;
 }
+
+#page p {
+    text-align: justify;
+}
+
+#page li {
+    text-align: justify;
+}
+
 
 .by {
     color: gray;
@@ -256,7 +265,7 @@ h1 span.details {
 	background-color: transparent;
 }
 
-h2 a:link, h2 a:visited {
+#sidebar h2 a:link, h2 a:visited {
 	text-decoration: none;
 	color: black;
 }

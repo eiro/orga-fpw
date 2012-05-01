@@ -1,8 +1,8 @@
+cf Miletstones (dans Issues/Milestones)
+
 # Le plus tôt possible
   * le logo et l'affiche
-  * contacter les sponsors (voir [sponsors.md](sponsors.md)
   * trouver des conférenciers
-  * hébergement : CIARUS, hôtels
 
 # Au fil de l'eau
   * mettre à jour le git !!
@@ -52,6 +52,8 @@
  
 # 19-21 juin
   * Solutions Linux, CNIT, Paris [delphine] c'est quoi ça ?? 
+    * [elbeho] Salon sur Paris (CNIT, La Défense) sur les solutions en Logiciels Libres, avec village associatif.
+    * [elbeho] Les Mongueurs ne tiennent pas de stand cette année (donc peu d'impact)
   
 # dans la semaine 
   * Faire les courses de non périssables
@@ -67,7 +69,9 @@
 # Ca, c'est fait
 
   * le site (fr et en)
- * Mettre la conf dans l'Agenda du Libre
+  * Mettre la conf dans l'Agenda du Libre
+  * hébergement : CIARUS, hôtels
+  * contacter les sponsors : en cours, voir [sponsors.md](sponsors.md)
 
 
 # N'a pas lieu d'être
