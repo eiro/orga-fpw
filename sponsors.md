@@ -47,7 +47,7 @@
 
 * hedera tech
   * responsable : elbeho
-  * [x] contact - Romain Chanut - mail le 13/04
+  * [x] contact - Romain Chanut - mail le 13/04, relance le 8/5
   * [ ] ok / pas ok - plutôt OK
   * [ ] facture envoyée
   * [ ] logo et texte reçus
@@ -56,8 +56,8 @@
 
 * Les Nouveaux Constructeurs
   * responsable : elbeho
-  * [x] contact - Nicolas Rennert - vu par elbeho le 5/3/12, va demander, mail le 13/4
-  * [ ] ok / pas ok
+  * [x] contact - Nicolas Rennert - vu par elbeho le 5/3/12, va demander, mail le 13/4, le 8/5
+  * [X] pas ok (pas encore sûr, mais Nicolas qui LNC)
   * [ ] facture envoyée
   * [ ] logo et texte reçus
   * [ ] logo et texte sur le site
@@ -74,7 +74,7 @@
 
 * CACIIS (Conseil, infogérance, intégration)
   * responsable : elbeho
-  * [X] contact - Florian Royer (via les offres d'emploi) - mail le 13/4
+  * [X] contact - Florian Royer (via les offres d'emploi) - mail le 13/4, relance le 8/5
   * [X] ok 
   * [ ] facture envoyée
   * [ ] logo et texte reçus
