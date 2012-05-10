@@ -16,7 +16,7 @@
   * [x] facture envoyée
   * [x] logo et texte reçus
   * [x] logo et texte sur le site
-  * [ ] paiement reçu
+  * [x] paiement reçu
 
 * linkfluence
   * responsable : marc
@@ -84,6 +84,15 @@
 * SPLIO
   * responsable : elbeho
   * [X] contact - Raphaël Jore (mail le 22 avr)
+  * [ ] ok / pas OK
+  * [ ] facture envoyée
+  * [ ] logo et texte reçus
+  * [ ] logo et texte sur le site
+  * [ ] paiement reçu
+
+* Bull
+  * responsable : elbeho
+  * [X] contact - Marc Girard (publi annonce 10 mai), mail le 10 mai
   * [ ] ok / pas OK
   * [ ] facture envoyée
   * [ ] logo et texte reçus
