@@ -1,7 +1,3 @@
-# Breaking news
-
-* suite problemes personnel, nous risquons de perdre notre guide pour la visite de strasbourg. si qq1 a une autre idée pour le parnter program ?
-
 # Date
 
 Vendredi 29 et samedi 30 juin, hackathon le dimanche 1er juillet.
@@ -18,7 +14,7 @@ Notre contact est Lionel Brosius.
 
 120 personnes sur les deux jours
 
-Qui mongueurs, étudiants, informaticiens en général.
+Qui :  mongueurs, étudiants, informaticiens en général.
 
 # Thème
 
@@ -33,7 +29,7 @@ moins de confs et plus de "on se pause, on discute, on code, je peux te montrer 
 
 # Hébergement
 
-A priori au CIARUS.
+CIARUS, proposition d'hôtels
 
 # Communication
 
@@ -46,7 +42,7 @@ A priori au CIARUS.
 
 ### Graphistes
 
-Kev et Aline
+Kev, Aline et Monjool
 
 ### Diffusion
 
