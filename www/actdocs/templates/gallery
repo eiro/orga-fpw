@@ -1,0 +1,23 @@
+[% FILTER collapse %]
+
+<p>&nbsp;</p>
+
+<div id="twitter" >
+  [% PROCESS twitter %]
+</div>
+
+<p>
+  <t>
+    <fr>
+      Vous pouvez nous suivre sur&nbsp;:
+    </fr>
+    <en>
+      You can follow us on:
+    </en>
+  </t>
+  <a href="http://twitter.com/journeesperl"><img class="icon" src="[% make_uri_info('img', 'blogging.twitter.png') %]" alt="twitter"/></a>&nbsp;&nbsp;
+  <a href="http://identi.ca/journeesperl"><img class="icon" src="[% make_uri_info('img', 'blogging.identica.png') %]" alt="identi.ca"/></a> 
+</p>
+
+[% END %]
+

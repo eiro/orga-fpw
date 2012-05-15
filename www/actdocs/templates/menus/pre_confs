@@ -1,0 +1,29 @@
+<h3>
+<t><fr>Pr&eacute;c&eacute;dentes Journées Perl</fr><en>Former FPW</en></t>
+</h3>
+<ul class="content">
+[% WRAPPER menus/item %]
+<a href="/2011/"><t><fr>Journ&eacute;es Perl 2011</fr><en>French Perl Workshop 2011</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2010/"><t><fr>Journ&eacute;es Perl 2010</fr><en>French Perl Workshop 2010</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2009/"><t><fr>Journ&eacute;es Perl 2009</fr><en>French Perl Workshop 2009</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2008/"><t><fr>Journ&eacute;es Perl 2008</fr><en>French Perl Workshop 2008</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2007/"><t><fr>Journ&eacute;es Perl 2007</fr><en>French Perl Workshop 2007</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2006/"><t><fr>Journ&eacute;es Perl 2006</fr><en>French Perl Workshop 2006</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2005/"><t><fr>Journ&eacute;es Perl 2005</fr><en>French Perl Workshop 2005</en></t></a>
+[% END %]
+[% WRAPPER menus/item %]
+<a href="/2004/"><t><fr>Journ&eacute;es Perl 2004</fr><en>French Perl Workshop 2004</en></t></a>
+[% END %]
+</ul>

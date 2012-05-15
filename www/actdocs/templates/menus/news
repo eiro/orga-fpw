@@ -1,0 +1,10 @@
+<h3 id="sidemenu">
+  <a href="[% make_uri('news') %]">{{News}}</a>
+</h3>
+[% IF global.request.user.is_news_admin %]
+<ul id="sidemenu">
+  [% WRAPPER menus/item %]
+  <a href="[% make_uri('newsadmin') %]">{{News Administration}}</a>
+  [% END %]
+</ul>
+[% END %]

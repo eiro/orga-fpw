@@ -1,0 +1,55 @@
+  [% isponsors = [] %]
+  [% BLOCK isponsor %]
+    [% WRAPPER menus/section %]
+    <p><a class="icon" href="[% url %]"><img class="icon" width="310" src="[% make_uri('img')%]/[% img %]" alt="[% name %]" title="[% name %]" /></a></p>
+    [% END %]
+  [% END %]
+
+<center>
+  [% WRAPPER menus/section %]
+  <a href="[% make_uri('sponsors.html') %]">Sponsors</a>
+  [% END %]
+
+  [% WRAPPER isponsor
+  img = 'logo.epitech.small.jpg'
+  name = 'Epitech'
+  url = 'http://www.epitech.eu/'
+  lnk = 'epitech'
+  %]
+  [% END %]
+
+  [% WRAPPER isponsor
+  img = "logo.teclib.large.png"
+  name = "TECLIB'"
+  url = 'http://teclib.com/'
+  lnk = 'teclib'
+  %]
+  [% END %]
+
+  [% WRAPPER isponsor
+  img = "logo.booking.small.jpg"
+  name = "Booking.com"
+  url = 'http://booking.com/'
+  lnk = 'booking'
+  %]
+  [% END %]
+
+  [% WRAPPER isponsor
+  img = "logo_biblibre_large.png"
+  name = "BibLibre"
+  url = 'http://biblibre.com/'
+  lnk = 'biblibre'
+  %]
+  [% END %]
+
+  [% WRAPPER isponsor
+  img = "logo_oreilly.gif"
+  name = "O'Reilly"
+  url = "http://www.linkfluence.net"
+  lnk = "oreilly"
+  %]
+  [% END %]
+
+
+</center>
+

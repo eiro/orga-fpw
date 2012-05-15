@@ -1,0 +1,55 @@
+Réunion du 5 mai 2012
+
+* Talks et ateliers
+
+Par rapport à l'année dernière, nous ne somme pas en retard pour les talks.
+Nous en avons pour le moment 5 dont deux de Perl. Deux talks supplémentaires 
+peuvent êtres assurés par Marc.
+Il faut en tout 16 talks, réunis en un seul track (il y en a eu des nouvelles 
+depuis la réunion).
+Deux ateliers auront lieu : Web et Perl6, ils sont confirmés.
+
+* Rencontres pro 
+
+Sur une demi-journée, le vendredi aprem. Il faut une intro de 1h ou 2h à Perl 
+tournée pro, par Marc.
+Il faut organiser cette demi-journée sur "ce que veulent savoir les pros sur 
+Perl". On peut notamment parler des entreprises ou logiciels qui ont réussi en 
+Perl : Weborama, Linkfluence, Nagios, Biblibre, Booking, Edora, Koa. Pourquoi 
+pas autour d'une table ronde, avec quelqu'un pour modérer. Emmanuel commence à 
+communiquer sur cette demi-journée.
+
+* Affiche et communication
+
+On ne fait pas de flyers pour l'instant. On par sur 50 affiches, 100 si l'écart 
+de prix est minime, en A2 couleur.
+Il faut faire une comparaison d'imprimeries le plus vite possible (Emmanuel et 
+Delphine et les autres si des idées).
+
+On communique l'évènement sur : i-alsace, rue89, rhenatic, developerForum, IS, 
+...
+Emmanuel s'occupe des mails pour les pros, Marc des mails pour les techniciens.
+
+* T-shirt et badges
+
+On garde le dessin devant avec l'oignon en sous-impression (si il passe bien). 
+Derrière, "Journées Perl 2012", le logo Perl, le slogan, "grâce à" et les logos 
+des sponsors.
+Faire une version noir et blanc et une version avec couleur, les t-shirts 
+colorés étant plus cher.
+Delphine demande à Kev et Monjool pour ça.
+Il faut par contre demander aux entreprises si elles veulent d'un logo noir et 
+blanc : Laurent.
+On garde le blanc comme couleur de t-shirt, une couleur pâle pour les t-shirts 
+orga.
+Il faut également faire un comparatif pour les impressions. Delphine demande à 
+son coloc', dont l'oncle est imprimeur.
+Il faut démarcher d'autres imprimeries.
+
+Pour les badges, Emmanuel en prend suffisamment sur le stock des RMLL.
+
+
+* Restaurants
+
+On part sur un restau le jeudi soir, plutôt décontract', un autre vendredi soir.
+Alexandre s'en occupe.

@@ -1,0 +1,44 @@
+[% FILTER collapse %]
+<div class="submenu">
+  [% PROCESS menus/languages %]
+</div>
+<div class="submenu">
+  [% PROCESS menus/user %]
+</div>
+<div class="submenu">
+  [% PROCESS menus/users %]
+</div>
+<div class="submenu">
+  [% PROCESS menus/talks %]
+</div>
+<div class="submenu">
+  [% PROCESS menus/news %]
+</div>
+[% IF global.request.user.is_talks_admin %]
+<div class="submenu">
+  [% PROCESS menus/events %]
+</div>
+[% END %]
+<div class="submenu">
+  [% PROCESS menus/sponsors %]
+</div>
+<div class="submenu">
+  [% PROCESS menus/information %]
+</div>
+[% IF global.request.user.is_treasurer %]
+<div class="submenu">
+  [% PROCESS menus/treasurer %]
+</div>
+[% END %]
+[% IF global.request.user.is_admin %]
+<div class="submenu">
+  [% PROCESS menus/admin %]
+</div>
+[% END %]
+<div class="submenu">
+  [% PROCESS menus/pre_confs %]
+</div>
+<div class="submenu">
+  [% PROCESS menus/act_confs %]
+</div>
+[% END %]

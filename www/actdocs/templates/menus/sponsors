@@ -1,0 +1,8 @@
+<h2 class="link">
+  <a href="[% make_uri('sponsorship.html') %]">
+    <t>
+      <en>Sponsorship</en>
+      <fr>Sponsoriser</fr>
+    </t>
+  </a>
+</h2>

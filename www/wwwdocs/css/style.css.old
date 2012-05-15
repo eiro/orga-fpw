@@ -1,0 +1,305 @@
+body {
+	margin: 0;
+	background-color: white;
+	color: black;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+
+img {
+	margin: 10px;
+	border: none;
+}
+
+img.icon {
+	margin: 1px 1px 1px 1px;
+	vertical-align: middle;
+}
+
+a:link,
+a:visited {
+	color: #0EAAC6;
+	outline: none;
+	text-decoration: none;
+}
+
+a:link:hover,
+a:visited:hover {
+	color: #256DC6;
+	outline: 1px solid #CCCCCC;
+	text-decoration: none;
+}
+
+#header {
+	clear: both;
+	margin: 0;
+	padding: 0;
+	height: 128px;
+	width: 100%;
+	background: transparent url(header.back.png) no-repeat scroll right top;
+}
+
+#header a {
+	display: block;
+	margin: 0;
+	padding: 90px 10px 0px 0px;
+	height: 38px;
+	background: transparent url(header.logo.png) no-repeat scroll left top;
+	text-align: right;
+	font-size: 14px;
+	font-style: italic;
+}
+
+#header a:link,
+#header a:visited {
+	color: black;
+	outline: none;
+	text-decoration: none;
+}
+
+#header a:link:hover,
+#header a:visited:hover {
+	color: black;
+	outline: none;
+	text-decoration: none;
+}
+
+#menu {
+	clear: both;
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #A8A8A8 url(menu.back.png) no-repeat scroll right top;
+	color: black;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	font-size: 12px;
+}
+
+#menu a {
+	display: block;
+	margin: 0;
+}
+
+#menu a:link,
+#menu a:visited {
+	background-color: transparent;
+	color: black;
+	outline: none;
+	text-decoration: none;
+}
+
+#menu a:link:hover,
+#menu a:visited:hover {
+	background-color: #0EAAC6;
+	color: white;
+	outline: none;
+	text-decoration: none;
+}
+
+#menu .submenu {
+	display: block;
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	cursor: default;
+}
+
+#menu .submenu .content {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: -1px;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+}
+
+#menu .submenu:hover .content,
+#menu .submenu .content:hover {
+	display: block;
+}
+
+#menu .submenu h2 {
+	margin: 0;
+	background-color: #999999;
+	font-size: 100%;
+	font-style: normal;
+	font-weight: bold;
+	cursor: inherit;
+}
+
+#menu .submenu h2 a:link,
+#menu .submenu h2 a:visited {
+	background-color: transparent;
+}
+
+#menu .submenu h2,
+#menu .submenu h2 a:link,
+#menu .submenu h2 a:visited {
+	padding: 0.5ex 1ex 0.5ex 1ex;
+	height: 1.3em;
+	color: black;
+	border-right: 1px solid #CCCCCC;
+}
+
+#menu .submenu h2.link {
+	padding: 0;
+	height: auto;
+	color: black;
+	border-right: none;
+}
+
+#menu .submenu h2.hllanguage {
+	background-color: #8590B8;
+}
+
+#menu .submenu h2.hltalks {
+	background-color: #A985B8;
+}
+
+#menu .submenu h2.hlsponsors {
+	background-color: #8585B8;
+}
+
+#menu .submenu:hover h2,
+#menu .submenu:hover h2 a:link,
+#menu .submenu:hover h2 a:visited {
+	background-color: #666666;
+	color: white;
+}
+
+#menu .submenu:hover h2 a:link:hover,
+#menu .submenu:hover h2 a:visited:hover {
+	background-color: #0EAAC6;
+	color: white;
+}
+
+#menu .submenu:hover h2.link {
+	background-color: transparent;
+	color: black;
+}
+
+#menu .submenu li {
+	padding: 0;
+	width: 35ex;
+	background-color: #AFAFAF;
+	font-size: 90%;
+	font-style: italic;
+	font-weight: normal;
+	cursor: inherit;
+	list-style-type: none;
+}
+
+#menu .submenu li a {
+	padding: 0.2ex 0.5ex 0.2ex 0.5ex;
+	border: 1px solid #CCCCCC;
+}
+
+#main {
+	clear: both;
+	margin: 0;
+	padding: 0px 8% 0px 8%;
+	height: 180px;
+	width: 84%;
+	background: transparent url(main.back.png) no-repeat scroll left top;
+}
+
+#content {
+	float: left;
+	margin: 0px 5% 0px 0px;
+	padding: 1em 0px 0px 0px;
+	width: 75%;
+	text-align: justify;
+}
+
+#content h1,
+#content h2,
+#content h3 {
+	clear: both;
+	color: #292929;
+	text-align: left;
+	font-style: italic;
+}
+
+#content form {
+	margin-top: 1em;
+}
+
+#content hr {
+	border: 1px solid #CCCCCC;
+}
+
+#content table[border="1"] {
+	border: 1px solid #CCCCCC;
+	border-collapse: collapse;
+}
+
+#content table[border="1"] > tr > th,
+#content table[border="1"] > tr > td {
+	border: 1px solid #CCCCCC;
+}
+
+#content fieldset {
+	border: 1px solid #CCCCCC;
+}
+
+#content input,
+#content select,
+#content textarea {
+	margin: 3px;
+	border: 1px solid #CCCCCC;
+}
+
+#content input[type="text"],
+#content input[type="password"],
+#content textarea {
+	background-color: #F9F9F9;
+}
+
+#content input[type="text"]:hover,
+#content input[type="password"]:hover,
+#content textarea:hover {
+	background-color: #FBFBFB;
+}
+
+#content input[type="text"]:focus,
+#content input[type="password"]:focus,
+#content textarea:focus {
+	background-color: white;
+}
+
+#content input[type="submit"],
+#content input[type="reset"],
+#content input[type="button"] {
+	background-color: #EAEAEA;
+}
+
+#content input[type="submit"]:hover,
+#content input[type="reset"]:hover,
+#content input[type="button"]:hover {
+	background-color: #F8F8F8;
+}
+
+#gallery {
+	float: right;
+	margin: 0;
+	padding: 2em 0px 0px 0px;
+	width: 20%;
+	text-align: right;
+}
+
+#gallery p {
+	padding: 2px 5px 2px 0px;
+	border-right: 1px solid #999999;
+}
+
+#footer {
+	clear: both;
+	margin: 0;
+	padding: 3em 8% 0.5em 8%;
+	text-align: right;
+	font-size: 80%;
+}

@@ -1,0 +1,27 @@
+<h2>
+  <t>
+    <en>Practical Information</en>
+    <fr>Infos Pratiques</fr>
+  </t>
+</h2>
+<ul class="content">
+  [% WRAPPER menus/item %]
+  <a href="[% make_uri('wiki') %]">Wiki</a>
+  [% END %]
+  [% WRAPPER menus/item %]
+  <a href="[% make_uri('maps.html') %]">
+    <t>
+      <en>Maps</en>
+      <fr>Acc&egrave;s</fr>
+    </t>
+  </a>
+  [% END %]
+  [% WRAPPER menus/item %]
+  <a href="[% make_uri('accomodation.html') %]">
+    <t>
+      <en>Accommodation</en>
+      <fr>H&eacute;bergement</fr>
+    </t>
+  </a>
+  [% END %]
+</ul>

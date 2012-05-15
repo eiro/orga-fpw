@@ -1,0 +1,58 @@
+<h2>
+    {{Presentations}}
+</h2>
+<ul class="content">
+  [% WRAPPER menus/item %]
+  <a href="[% make_uri('talks') %]">
+    {{Presentations}}
+  </a>
+  [% END %]
+  [% WRAPPER menus/item %]
+  <a href="[% make_uri('favtalks') %]">
+    {{Favorite Talks}}
+  </a>
+  [% END %]
+  [% IF global.config.talks_show_schedule OR global.request.user.is_talks_admin %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('schedule') %]">
+      {{Schedule}}
+    </a>
+    [% END %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('timetable.ics') %]">
+      {{iCal export}}
+    </a>
+    [% END %]
+    [% IF global.request.user.has_registered %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('myschedule') %]">
+      {{Personal Schedule}}
+    </a>
+    [% END %]
+    [% END %]
+  [% END %]
+  [% IF global.request.user.is_talks_admin %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('tracks') %]">
+      {{Tracks}}
+    </a>
+    [% END %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('ical_import') %]">
+      {{iCal import}}
+    </a>
+    [% END %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('export_talks') %]">
+      {{CSV export}}
+    </a>
+    [% END %]
+  [% END %]
+  [% IF global.config.talks_submissions_open OR global.request.user.is_talks_admin %]
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('newtalk') %]">
+      {{Submit a talk proposal}}
+    </a>
+    [% END %]
+  [% END %]
+</ul>

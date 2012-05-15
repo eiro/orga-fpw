@@ -1,0 +1,13 @@
+<ul id="menu">
+    <li><a href="[% make_uri_info() %]"><t><fr>Accueil</fr><en>Welcome</en></t></a></li>
+    <li><a href="[% make_uri('talks') %]">{{Presentations}}</a></li>
+    <li><a href="[% make_uri('wiki') %]"><t><fr>Infos pratiques</fr><en>Wiki</en></t></a></li>
+<!-- 
+    <li><a href="[% make_uri('news') %]">{{News}}</a></li>
+    <li><a href="#"><t><fr>Screencasts</fr><en>Screencasts</en></t></a></li>
+    <li><a href="[% make_uri('accomodation.html') %]"><t><fr>H&eacute;bergement</fr><en>Accomodations</en></t></a></li>
+-->
+    <li><a href="[% make_uri('maps.html') %]"><t><fr>Accès</fr><en>Coming in</en></t></a></li>
+    <li><a href="[% make_uri('sponsors.html') %]"><t><fr>Sponsors</fr><en>Sponsors</en></t></a></li>
+</ul>
+

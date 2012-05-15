@@ -1,0 +1,14 @@
+[% IF global.request.user.is_talks_admin %]
+  <h3 id="sidemenu">
+    <a href="[% make_uri('events') %]">
+      {{Events}}
+    </a>
+  </h3>
+  <ul id="sidemenu">
+    [% WRAPPER menus/item %]
+    <a href="[% make_uri('newevent') %]">
+      {{Submit a new event}}
+    </a>
+    [% END %]
+  </ul>
+[% END %]

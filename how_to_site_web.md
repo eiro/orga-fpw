@@ -4,13 +4,19 @@
 
 ### Le site de test
 
+  * C'est là : [http://test.mongueurs.net/fpw2012](http://test.mongueurs.net/fpw2012)
+
+
 Le site de test est une série de fichiers qui se trouve sur le serveur spectre.
 On les modifie en se connectant sur le serveur ssh avec authentification par clés.
 L'accès est à demander à Maddingue (il est sur #perlfr de irc.perl.org)
 
-Les mises à jour sont visibles dès la sauvegarde du fichier concerné (et un refresh du browser :-) ).
+Les mises à jour sont visibles dès la sauvegarde du fichier concerné (et un refresh du browser :-) ) sur http://test.mongueurs.net/fpw2012
 
 ### Le site de prod
+
+  * C'est là : [http://journeesperl.fr/fpw2012](http://journeesperl.fr/fpw2012)
+
 
 Le site de prod est accessible via un dépôt Subversion. Le commit bit est à demander à Maddingue.
 
