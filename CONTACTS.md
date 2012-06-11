@@ -65,5 +65,9 @@ mais aussi ...
 # Autres contacts
 
 # présence
+# autres
+
+cci formation: 03 88 43 08 00
+
 
 
