@@ -1,0 +1,544 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20120615T192858Z
+LAST-MODIFIED:20120615T192908Z
+DTSTAMP:20120615T192908Z
+UID:7b88071f-5666-41e8-ab5a-9eab038f87fa
+SUMMARY:ouverture
+DTSTART;TZID=Europe/Paris:20120629T090000
+DTEND;TZID=Europe/Paris:20120629T094500
+X-MOZ-GENERATION:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120615T192858Z
+LAST-MODIFIED:20120615T193237Z
+DTSTAMP:20120615T193237Z
+UID:b309ae1d-d6a8-4dda-b27c-3e0ed18a833a
+SUMMARY:ouverture
+DTSTART;TZID=Europe/Paris:20120630T171500
+DTEND;TZID=Europe/Paris:20120630T180000
+X-MOZ-GENERATION:5
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T194354Z
+DTSTAMP:20120615T194354Z
+UID:http://journeesperl.fr/2012/talk/4057
+SUMMARY:Le développement de Perl 5
+ORGANIZER:Philippe Bruhat
+ATTENDEE:Alexandre Jousset
+ATTENDEE:fabien
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120629T100000
+DTEND;TZID=Europe/Paris:20120629T102000
+COMMENT:3 attendees
+DESCRIPTION:Comment est-ce que Perl 5 est développé ? Par qui ? Quand so
+ rtent les nouvelles versions ? Comment les "core devs" s'assurent-ils de l
+ a qualité des versions majeures et mineures de Perl ? Quelle est leur pol
+ itique en matière de compatibilité entre versions ? Que se passe-t'il en
+  coulisses ? Toutes ces questions\, et leurs réponses\, seront au program
+ me de cette passionnante présentation.\n\n(Rafaël Garcia-Suarez\, ancien
+  pumpking et auteur de cette présentation sera remplacé par Philippe Bru
+ hat.)
+URL:http://journeesperl.fr/2012/talk/4057
+SEQUENCE:6
+X-MOZ-GENERATION:6
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T194439Z
+DTSTAMP:20120615T194439Z
+UID:http://journeesperl.fr/2012/talk/4123
+SUMMARY:Les nouveautés de Perl 5.16
+ORGANIZER:Sébastien Aperghis-Tramoni
+ATTENDEE:Alexandre Jousset
+ATTENDEE:Pierre Rudloff
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120629T103000
+DTEND;TZID=Europe/Paris:20120629T105000
+COMMENT:4 attendees
+DESCRIPTION:Une nouvelle année\, une nouvelle version stable de Perl.\n\n
+ Revue des nouveautés majeures de la version 5.16\, publiée le 21 mai 201
+ 2.
+URL:http://journeesperl.fr/2012/talk/4123
+SEQUENCE:6
+X-MOZ-GENERATION:6
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T194739Z
+DTSTAMP:20120615T194739Z
+UID:http://journeesperl.fr/2012/talk/4050
+SUMMARY:intro à perl6
+ORGANIZER:marc chantreux
+DTSTART;TZID=Europe/Paris:20120629T110000
+DTEND;TZID=Europe/Paris:20120629T114500
+COMMENT:0 attendees
+DESCRIPTION:depuis plus de 10 ans maintenant\, perl6 est un monde étrange
+  et vaporeux ou courent mots étranges et rumeurs. que sont parrot\, rakud
+ o\, pugs\, niecza et les autres? ou en est perl6? dispose-t'il d'un cpan?\
+ n\nen compagnie d’authentiques contributeurs perl6\, nous répondrons à
+  ces questions et à d'autres.
+URL:http://journeesperl.fr/2012/talk/4050
+SEQUENCE:9
+X-MOZ-GENERATION:10
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T194947Z
+DTSTAMP:20120615T194947Z
+UID:http://journeesperl.fr/2012/talk/4124
+SUMMARY:Introduction aux expressions régulières de Perl 5 et PCRE 7‎
+ORGANIZER:Sébastien Aperghis-Tramoni
+ATTENDEE:Pierre Rudloff
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120629T110000
+DTEND;TZID=Europe/Paris:20120629T114500
+COMMENT:2 attendees
+DESCRIPTION:Petit cours sur les expressions régulières de Perl 5 et PCRE
+  7.
+URL:http://journeesperl.fr/2012/talk/4124
+SEQUENCE:2
+X-MOZ-GENERATION:2
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195024Z
+DTSTAMP:20120615T195024Z
+UID:http://journeesperl.fr/2012/talk/4100
+SUMMARY:DBIx::DataModel vs DBIx::Class
+ORGANIZER:Laurent Dami
+ATTENDEE:Serge Hoffmann
+ATTENDEE:Alexandre Jousset
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120629T140000
+DTEND;TZID=Europe/Paris:20120629T144500
+COMMENT:4 attendees
+DESCRIPTION:Les modules DBIx::DataModel et DBIx::Class sont deux façons (
+ parmi tant d'autres!) de faire une couche d'abstraction entre la base de d
+ onnées et le programme Perl. Tous deux ont des points communs\, mais auss
+ i des différences fondamentales.
+URL:http://journeesperl.fr/2012/talk/4100
+SEQUENCE:9
+X-MOZ-GENERATION:10
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195032Z
+DTSTAMP:20120615T195032Z
+UID:http://journeesperl.fr/2012/talk/4052
+SUMMARY:Macros in Rakudo
+ORGANIZER:Carl Mäsak
+DTSTART;TZID=Europe/Paris:20120629T140000
+DTEND;TZID=Europe/Paris:20120629T144500
+COMMENT:0 attendees
+DESCRIPTION:It's 2012\, and Perl 6 is getting macros.\n\nMacros are a sort
+  of code templates. They help you reduce boilerplate in your programs. The
+ y're in Lisp\, so they must be cool.\n\nI've started implementing macros i
+ n Rakudo\, one of the leading Perl 6 implementations. This talk is about t
+ hat effort\, and the ways it has given me a new perspective on Perl 6.
+URL:http://journeesperl.fr/2012/talk/4052
+SEQUENCE:16
+X-MOZ-GENERATION:16
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195036Z
+DTSTAMP:20120615T195036Z
+UID:http://journeesperl.fr/2012/talk/4142
+SUMMARY:surprise ?
+ORGANIZER:Matt S Trout
+DTSTART;TZID=Europe/Paris:20120629T150000
+DTEND;TZID=Europe/Paris:20120629T154500
+COMMENT:0 attendees
+DESCRIPTION:no more info.
+URL:http://journeesperl.fr/2012/talk/4142
+SEQUENCE:9
+X-MOZ-GENERATION:9
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195041Z
+DTSTAMP:20120615T195041Z
+UID:http://journeesperl.fr/2012/talk/4053
+SUMMARY:Meta-programming In Perl 6‎
+ORGANIZER:Jonathan Worthington
+ATTENDEE:Alexandre Jousset
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120629T150000
+DTEND;TZID=Europe/Paris:20120629T154500
+COMMENT:2 attendees
+DESCRIPTION:Over the last year\, the Rakudo Perl 6 compiler has gained sig
+ nificant new meta-programming capabilities. After a brief introduction to 
+ the topic of meta-programming\, I'll illustrate a range of these features 
+ through a set of working examples. Along the way I'll also pick out some o
+ f the common patterns and approaches\, which can be used to solve a whole 
+ range of different problems.
+URL:http://journeesperl.fr/2012/talk/4053
+SEQUENCE:8
+X-MOZ-GENERATION:8
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195316Z
+DTSTAMP:20120615T195316Z
+UID:http://journeesperl.fr/2012/talk/4122
+SUMMARY:Bailador -- A Perl 6 port of Dancer
+ORGANIZER:Tadeusz Sośnierz
+DTSTART;TZID=Europe/Paris:20120629T180000
+DTEND;TZID=Europe/Paris:20120629T182000
+COMMENT:0 attendees
+DESCRIPTION:This is going to talk about Bailador -- Dancer implemented in 
+ Perl 6\; where did it come from\, why it's named in neither English nor Fr
+ ench\, what does it look like\, how useful is it now\, what are plans for 
+ it. Time to see how Perl 6 fares in some practical tasks.
+URL:http://journeesperl.fr/2012/talk/4122
+SEQUENCE:6
+X-MOZ-GENERATION:7
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195341Z
+DTSTAMP:20120615T195341Z
+UID:http://journeesperl.fr/2012/talk/4129
+SUMMARY:Ligne de commande avec classe en Perl
+ORGANIZER:Vincent Bachelier
+ATTENDEE:Serge Hoffmann
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120629T180000
+DTEND;TZID=Europe/Paris:20120629T182000
+COMMENT:3 attendees
+DESCRIPTION:Il y a plusieurs façon de faire un programme qui lit les lign
+ es de commandes.\n\nJe présenterais les différentes façon de la plus vi
+ eille à la plus moderne d'accepter des arguments en ligne de commande pou
+ r créer facilement des outils en perl.
+URL:http://journeesperl.fr/2012/talk/4129
+SEQUENCE:6
+X-MOZ-GENERATION:6
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195438Z
+DTSTAMP:20120615T195438Z
+UID:http://journeesperl.fr/2012/talk/4099
+SUMMARY:SQL::Abstract::FromQuery
+ORGANIZER:Laurent Dami
+ATTENDEE:Emmanuel Di Pretoro
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120629T160000
+DTEND;TZID=Europe/Paris:20120629T162000
+COMMENT:3 attendees
+DESCRIPTION:Un module pour générer automatiquement des requêtes complex
+ es au format SQL::Abstract\, à partir de critères de recherche saisis da
+ ns un formulaire Web. L'utilisateur peut taper des opérateurs de comparai
+ son\, "like"\, "between"\, etc.\; un parseur les traduit en structures de 
+ données SQL::Abstract.
+URL:http://journeesperl.fr/2012/talk/4099
+SEQUENCE:2
+X-MOZ-GENERATION:2
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195441Z
+DTSTAMP:20120615T195441Z
+UID:http://journeesperl.fr/2012/talk/4038
+SUMMARY:TDD in deeply embedded with TAP
+ORGANIZER:François Perrad
+ATTENDEE:Emmanuel Di Pretoro
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120629T160000
+DTEND;TZID=Europe/Paris:20120629T162000
+COMMENT:2 attendees
+DESCRIPTION:Test Driven Development in deeply embedded with Test Anything 
+ Protocol.\n\nsee https://github.com/fperrad/ArduinoTap\, an Unit Testing l
+ ibrary\n\nsee http://arduino.cc/
+URL:http://journeesperl.fr/2012/talk/4038
+SEQUENCE:4
+X-MOZ-GENERATION:4
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195455Z
+DTSTAMP:20120615T195455Z
+UID:http://journeesperl.fr/2012/talk/4144
+SUMMARY:MARC::MIR\, le PSGI de l'informatique documentaire
+ORGANIZER:marc chantreux
+DTSTART;TZID=Europe/Paris:20120629T170000
+DTEND;TZID=Europe/Paris:20120629T174500
+COMMENT:0 attendees
+DESCRIPTION:PSGI a permis aux développeurs web de partager du code et des
+  bonnes pratiques. L'extrême simplicité de sa structure en font un outil
+ s simple et performant (je n'ai même pas utilisé dancer pour ma dernièr
+ e application web).\n\nMARC::MIR propose une spécification dans le même 
+ esprit pour le traitement du format MARC. \n\nDans cette présentation\, j
+ e propose les grandes idées\, les choix d'implémentation\, des exemples 
+ d'utilisation et les travaux en cours.
+URL:http://journeesperl.fr/2012/talk/4144
+SEQUENCE:8
+X-MOZ-GENERATION:8
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195458Z
+DTSTAMP:20120615T195458Z
+UID:http://journeesperl.fr/2012/talk/4113
+SUMMARY:l'inventaire des ordinateurs\, hyperviseurs et des équipements r
+ éseaux
+ORGANIZER:Gonéri Le Bouder
+ATTENDEE:Serge Hoffmann
+DTSTART;TZID=Europe/Paris:20120629T170000
+DTEND;TZID=Europe/Paris:20120629T174500
+COMMENT:1 attendees
+DESCRIPTION:FusionInventory est une brique qui permet l'inventorisation de
+ s ordinateurs et des équipements réseaux.\n\nLa présentation vise a mon
+ trer des cas pratiques d'utilisation de FusionInventory et expliquer comme
+ nt réutiliser ces briques:\n - mise en place et consultation d'un inventa
+ ire automatisé d'un parc informatique \;\n - l'orgnisation des modules \;
+ \n - extension des informations remontées \;\n - le format des données.
+ 
+URL:http://journeesperl.fr/2012/talk/4113
+SEQUENCE:4
+X-MOZ-GENERATION:4
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195537Z
+DTSTAMP:20120615T195537Z
+UID:http://journeesperl.fr/2012/talk/4141
+SUMMARY:perl debugging
+ORGANIZER:marc chantreux
+DTSTART;TZID=Europe/Paris:20120630T140000
+DTEND;TZID=Europe/Paris:20120630T142000
+COMMENT:0 attendees
+DESCRIPTION:(booking! DM)
+URL:http://journeesperl.fr/2012/talk/4141
+SEQUENCE:2
+X-MOZ-GENERATION:2
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195541Z
+DTSTAMP:20120615T195541Z
+UID:http://journeesperl.fr/2012/talk/4125
+SUMMARY:Étendre Net-SNMP en Perl
+ORGANIZER:Sébastien Aperghis-Tramoni
+ATTENDEE:Serge Hoffmann
+DTSTART;TZID=Europe/Paris:20120630T143000
+DTEND;TZID=Europe/Paris:20120630T145000
+COMMENT:1 attendees
+DESCRIPTION:Net-SNMP est le serveur SNMP de référence dans le monde Unix
+ . Il dispose de nombreux mécanismes permettant de l'étendre. Présentati
+ on de quelques uns d'entre eux et des modules Perl disponibles.
+URL:http://journeesperl.fr/2012/talk/4125
+SEQUENCE:2
+X-MOZ-GENERATION:2
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195545Z
+DTSTAMP:20120615T195545Z
+UID:http://journeesperl.fr/2012/talk/4133
+SUMMARY:latex -O fun
+ORGANIZER:Jean Forget
+DTSTART;TZID=Europe/Paris:20120630T150000
+DTEND;TZID=Europe/Paris:20120630T152000
+COMMENT:0 attendees
+DESCRIPTION:8 ans après l'exposé d'Olivier K sur LATEX (http://journeesp
+ erl.fr/fpw2004/talk/37)\, voici une nouvelle façon de mélanger Perl et L
+ ATEX et d'optimiser le "fun factor".
+URL:http://journeesperl.fr/2012/talk/4133
+SEQUENCE:3
+X-MOZ-GENERATION:3
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195547Z
+DTSTAMP:20120615T195547Z
+UID:http://journeesperl.fr/2012/talk/4126
+SUMMARY:De RackTables à rack\, grâce au CPAN
+ORGANIZER:Sébastien Aperghis-Tramoni
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120630T153000
+DTEND;TZID=Europe/Paris:20120630T155000
+COMMENT:1 attendees
+DESCRIPTION:Analyse de comment le CPAN m'a permit\, en deux mois\, d'écri
+ re un programme pour la société eStat Médiamétrie s'interfaçant avec 
+ le logiciel RackTables (PHP)\, grâce à Moose et DBIx::Class\, alors que 
+ je n'avais encore utilisé ni l'un ni l'autre.
+URL:http://journeesperl.fr/2012/talk/4126
+SEQUENCE:3
+X-MOZ-GENERATION:3
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195600Z
+DTSTAMP:20120615T195600Z
+UID:http://journeesperl.fr/2012/talk/4103
+SUMMARY:Les (organis|associ|fond)ations de Perl
+ORGANIZER:Philippe Bruhat
+ATTENDEE:Alexandre Jousset
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120629T163000
+DTEND;TZID=Europe/Paris:20120629T165000
+COMMENT:3 attendees
+DESCRIPTION:Langage Open Source\, Perl n'est soutenu par aucune entreprise
+ . Cependant\, beaucoup d'organisations sans but lucratif se sont constitu
+ ées de par le monde pour promouvoir le langage\, soutenir son développem
+ ent\, et faire vivre sa communauté.\n\nCette présentation fera un tour d
+ 'horizon des organisations Perl dans le monde\, leurs rôles et leurs rela
+ tions. Les quelques entreprises qui soutiennent Perl seront aussi mentionn
+ ées. \;-)
+URL:http://journeesperl.fr/2012/talk/4103
+SEQUENCE:6
+X-MOZ-GENERATION:6
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195608Z
+DTSTAMP:20120615T195608Z
+UID:http://journeesperl.fr/2012/talk/4145
+SUMMARY:Big Data en perl (par DM)
+ORGANIZER:marc chantreux
+DTSTART;TZID=Europe/Paris:20120630T160000
+DTEND;TZID=Europe/Paris:20120630T164500
+COMMENT:0 attendees
+DESCRIPTION:mapReduce expliqué aux mongueurs
+URL:http://journeesperl.fr/2012/talk/4145
+SEQUENCE:17
+X-MOZ-GENERATION:17
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195717Z
+DTSTAMP:20120615T195717Z
+UID:http://journeesperl.fr/2012/talk/4115
+SUMMARY:SPORE - La solution polyglotte pour accéder aux API REST
+ORGANIZER:Camille Maussang
+ATTENDEE:Serge Hoffmann
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120630T090000
+DTEND;TZID=Europe/Paris:20120630T092000
+COMMENT:3 attendees
+DESCRIPTION:SPORE (Specification to a POrtable Rest Environment) est une s
+ uite d'outils pour accéder de façon simple aux API REST qui pullulent au
+ jourd'hui sur le web. La présentation montrera comment écrire une spec S
+ PORE pour une API existante afin\, ensuite\,  d'accéder à l'API depuis n
+ 'importe quel langage.
+URL:http://journeesperl.fr/2012/talk/4115
+SEQUENCE:6
+X-MOZ-GENERATION:6
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195733Z
+DTSTAMP:20120615T195733Z
+UID:http://journeesperl.fr/2012/talk/4116
+SUMMARY:Un webservice facile avec Dancer & Spore
+ORGANIZER:Camille Maussang
+ATTENDEE:Serge Hoffmann
+ATTENDEE:Pierre Rudloff
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120630T093000
+DTEND;TZID=Europe/Paris:20120630T101500
+COMMENT:4 attendees
+DESCRIPTION:Un exemple simple d'application web (de la gestion de base de 
+ donnée au client en passant par l'API REST) utilisant le Perl moderne !!!
+ 
+URL:http://journeesperl.fr/2012/talk/4116
+SEQUENCE:9
+X-MOZ-GENERATION:9
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195751Z
+DTSTAMP:20120615T195751Z
+UID:http://journeesperl.fr/2012/talk/4051
+SUMMARY:die hard perl
+ORGANIZER:marc chantreux
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120630T093000
+DTEND;TZID=Europe/Paris:20120630T101500
+COMMENT:1 attendees
+DESCRIPTION:Toi\, mon frère\, dépositaire de l'héritage unix qui a nour
+ ri Perl au sein\, tu ne crains ni le contexte\, ni la regex\, tu adules le
+  pipe et tu sais que perl su garder en lui toute la puissance de l'esprit 
+ des origines tout en grandissant et en conquérant tant de terres inconnue
+ s\,sache-le: cette présentation n'est pas pour toi!\n\nPour tous les autr
+ es\, qui connaissez un autre langage dynamique et vous demandez toujours  
+ pourquoi "un langage aussi obscur que perl" n'a pas d'égal aux yeux des m
+ ongueurs\, cette présentation vous permettra d'apprendre en quoi perl est
+  si différent et de forger vos opinions en connaissance de cause.
+URL:http://journeesperl.fr/2012/talk/4051
+SEQUENCE:4
+X-MOZ-GENERATION:4
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195805Z
+DTSTAMP:20120615T195805Z
+UID:http://journeesperl.fr/2012/talk/4083
+SUMMARY:Retours d'experience sur une utilisation avancée du MetaCPAN
+ORGANIZER:Erwan Ben Souiden
+ATTENDEE:Smonff
+ATTENDEE:Nicolas Georges
+DTSTART;TZID=Europe/Paris:20120630T103000
+DTEND;TZID=Europe/Paris:20120630T105000
+COMMENT:2 attendees
+DESCRIPTION:Dans le cadre de l'activité d'Antelink\, nous avons dû utili
+ ser le MetaCPAN afin d'indexer et qualifier le contenu CPAN dans Antepedia
+ \, notre base de connaissance de composants open source.\nNous proposons c
+ ette présentation afin de montrer :\n* une utilisation concrète du MetaC
+ PAN à une grande échelle dans un environnement de production\n* l'intêr
+ et d'un tel projet par rapport à l'API officielle de CPAN\n* comment nous
+  avons travaillé de pair avec la communauté Perl autour de ce projet.
+URL:http://journeesperl.fr/2012/talk/4083
+SEQUENCE:6
+X-MOZ-GENERATION:7
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195838Z
+DTSTAMP:20120615T195838Z
+UID:http://journeesperl.fr/2012/talk/4143
+SUMMARY:les outils autour du cpan: partagez et deployez du code Perl
+ORGANIZER:marc chantreux
+DTSTART;TZID=Europe/Paris:20120630T110000
+DTEND;TZID=Europe/Paris:20120630T114500
+COMMENT:0 attendees
+DESCRIPTION:de la création d'un module jusqu'à l'installation de paquets
+  debian en passant par l’environnement de développement confortable\, j
+ e fais le tour des outils et techniques que j'ai utilisé (en proposant le
+ s pistes que je n'ai pas exploré)
+URL:http://journeesperl.fr/2012/talk/4143
+SEQUENCE:7
+X-MOZ-GENERATION:7
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20120615T195843Z
+DTSTAMP:20120615T195843Z
+UID:http://journeesperl.fr/2012/talk/4101
+SUMMARY:Des outils et des hommes
+ORGANIZER:Nils Grunwald
+ATTENDEE:Pierre Rudloff
+ATTENDEE:Smonff
+DTSTART;TZID=Europe/Paris:20120630T110000
+DTEND;TZID=Europe/Paris:20120630T114500
+COMMENT:2 attendees
+DESCRIPTION:Depuis janvier 2009\, le site http://usesthis.com/ a réalisé
+  et mis en\nligne plus de 250 interviews de diverses figures du monde du L
+ ogiciel\nLibre et du Web (Richard Stallman\, James Gosling\, William Gibso
+ n\,\netc...)\, visant à leur faire présenter les outils (logiciels et\nm
+ atériel) qu'ils utilisent au quotidien. C'est donc un échantillon\ninté
+ ressant des bonnes pratiques. Nous présenterons dans un premier\ntemps le
+  code et les librairies permettant d'extraire sous une forme\nstructurée 
+ les données du site. Ensuite\, nous présenterons des\nstatistiques sur l
+ es grandes tendances qui émergent de ce dataset\, et\ndifférentes métho
+ des et outils pour les représenter.
+URL:http://journeesperl.fr/2012/talk/4101
+SEQUENCE:9
+X-MOZ-GENERATION:7
+END:VEVENT
+END:VCALENDAR
