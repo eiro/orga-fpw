@@ -5,7 +5,7 @@ l'association Les Mongueurs de Perl mais aussi de vous tous qui avez témoigné
 de votre enthousiasme au cours de ses dernières semaines, j'aimerais remercier
 ici la mobilisation locale. Tout d'abord, la créativité, l'esprit d'initiative
 et la force de travail de Delphine Bottarlini de l'AIUS et Alexandre Franke, de
-la société Hackcendo sans qui rien n'aurait été possible. Ensuite, les
+la société Hackcendo, sans qui rien n'aurait été possible. Ensuite, les
 contributions plus discrètes de l'ADEC (Manu, Aline pour le visuel), mes
 collègues de l'université de Strasbourg, étudiants de l'AIUS ou d'Epitech qui
 ont prêté des mains occasionnelles mais fortes.
