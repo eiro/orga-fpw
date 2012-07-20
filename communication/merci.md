@@ -41,10 +41,10 @@ En parlant de prochains événements :
 * OSDC.fr à Paris, les 12 et 13 octobre  http://act.osdc.fr/osdc2012fr/
 * London Perl Workshop à Londres, le 14 novembre http://act.yapc.eu/lpw2012/index.html
 * Le Belgian Perl Workshop (date à venir)
-* La première réunion de Strasbourg.pm le 15 aôut à Strasbourg (s'inscrire sur
+* La première réunion de Strasbourg.pm le 15 août à Strasbourg (s'inscrire sur
    la liste http://listes.mongueurs.net/mailman/listinfo/strasbourg) 
 
-A l'année prochaine pour la 10e édition des Journées Perl (on parle de Nancy,
+À l'année prochaine pour la 10e édition des Journées Perl (on parle de Nancy,
 Marseille, Paris... d'autres candidats ?)
 
 Librement,
