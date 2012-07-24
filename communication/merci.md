@@ -1,6 +1,6 @@
 L'édition 2012 s'est inscrite dans l'esprit des Journées Perl de ces dernières
 années : tout à la fois une fête technique et un grand moment de convivialité
-que les plus anciens savent faire partager aux nouveaux-venus. Au nom de
+que les plus anciens savent faire partager aux nouveaux venus. Au nom de
 l'association Les Mongueurs de Perl mais aussi de vous tous qui avez témoigné
 de votre enthousiasme au cours de ses dernières semaines, j'aimerais remercier
 ici la mobilisation locale. Tout d'abord, la créativité, l'esprit d'initiative
@@ -24,7 +24,7 @@ Enfin, merci à vous tous, conférenciers et membres de l'association, board
 dévoué et discret, présentateurs et auditeurs. Tous avez apporté votre bonne
 humeur, votre spontanéité, votre curiosité à cet évenement, tous avez, par un
 petit service ou une réaction accomodante, participé la convivialité de cet
-évenement.
+événement.
 
 Petit encart spécial pour Matt S. Trout : son effort pour parler le "BBC accent
 english", les 11 heures de développement Perl6 vendues au profit de l'association, la
@@ -45,7 +45,7 @@ En parlant de prochains événements :
    la liste http://listes.mongueurs.net/mailman/listinfo/strasbourg) 
 
 À l'année prochaine pour la 10e édition des Journées Perl (on parle de Nancy,
-Marseille, Paris... d'autres candidats ?)
+Marseille, Paris... d'autres candidats ? contact@mongueurs.net)
 
 Librement,
-Delphine, Alexandre, Laurent, Marc 
+Marc 
