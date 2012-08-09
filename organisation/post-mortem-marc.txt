@@ -1,0 +1,70 @@
+TRUCS BIENS:
+
+Je pense que c'était *TRES BIEN* de sortir FPW de paris:
+
+* pour les habitués: ca change un peu de la vilette
+* pour les locaux: ca permet de découvrir perl
+
+Il faut garder cette idée d'auberge de jeunesse: ca fait baisser le prix du
+déplacement (c'est non négligeable quand on négocie avec sa boite ou sa femme
+pour le budget)
+
+Faire venir des YAPC stars c'est bien! les retours genre "on a enfin pu
+(découvrir|discuter avec) mst" sont relativement nombreux.
+
+ORGANISATION:
+
+Je n'ai pas su organiser l'équipe. C'est du à:
+
+a) un manque de compréhension des sous-objectifs
+b) une méconnaissance de l'équipe (pb de com.)
+c) un manque d'outils
+
+Le manque de plannif. a fait que nous n'avons que moyennement profité de la
+mobilisation ponctuelle (ca a pourtant bien marché par exemple quand il a fallu
+mettre du contenu sur le site). Le dynamisme de Delphine et Alexandre et
+l'experience de Laurent ont sauvé les taches plus lourdes.
+
+Il faut que Laurent devienne dictateur benevole (lache l'operationnel pur) et
+prenne un dictateur adjoint pour la cas ou il casse une pipe (pe Sebastien?)
+
+OUTILS:
+
+faut simplifier act! ce truc est chiant! 
+
+COMMUNICATION:
+
+* graphisme:
+  - pas d'expert
+  - *tres* gourmand en temps
+  => a deleguer au plus vite 
+  => au pire: s'en foutre (et piller les anciens visuels comme celui de 2010)
+* Il ne faut plus faire de com. autre qu'electronique: les affiches sont une perte de temps
+  et d'energie
+* manque une liste de correspondants a qui envoyer les coms: il faut que
+  l'asso. identifie plus facilement (par le biais de mailing lists?) les
+  personnes internes et externes
+
+  * typepad
+  * developpez
+  * programmer
+  * linux france
+  * dlfp
+  * tweeter
+  * mongueurs (fb et linkedin)
+
+DEROULEMENT:
+
+Il faut désigner un "correspondant" pour les non-francophones qui s'assure que
+les infos essencielles sont passées.
+
+Il faut un tableau en liege ou on peut laisser des posts-its pour laisser des
+messages et savoir qui sait quoi (ou alors un autre systeme genre sms ...)
+
+Il faut laisser tomber cette idée et pousser les anciens a faire des talks de
+niveau debutant: c'est plus souple pour le public (le talk sur le packaging a
+bien marché par exemple)
+
+Tres bonne gestion de la logistique: repas, viennoiserie, cafés ... Strasbourg
+est un beau cadre (la team perl6 disait meme que ca serait parfait pour une
+YAPC) 
