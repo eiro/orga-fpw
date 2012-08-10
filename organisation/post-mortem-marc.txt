@@ -61,10 +61,14 @@ les infos essencielles sont passées.
 Il faut un tableau en liege ou on peut laisser des posts-its pour laisser des
 messages et savoir qui sait quoi (ou alors un autre systeme genre sms ...)
 
-Il faut laisser tomber cette idée et pousser les anciens a faire des talks de
-niveau debutant: c'est plus souple pour le public (le talk sur le packaging a
-bien marché par exemple)
-
 Tres bonne gestion de la logistique: repas, viennoiserie, cafés ... Strasbourg
 est un beau cadre (la team perl6 disait meme que ca serait parfait pour une
 YAPC) 
+
+INITIATIONS:
+
+Ca fait 2 ans qu'on se plante sur l'atelier debutant parceque c'est compliqué a
+faire sans avoir de vue réelle du niveau des gens.  Il faut laisser tomber
+l'idée et pousser les anciens a faire des talks de niveau debutant: c'est plus
+souple pour le public (le talk sur le packaging a bien marché par exemple)
+
