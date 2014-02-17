@@ -25,4 +25,24 @@ Vincent dans la boucle pour le visuel:
   * affichage linuxmag
   * blogs? wendy, josette? typepad?  
 * budget? 
-* classrooms? 
+* classrooms?  
+
+# demarcher sponsors possibles 
+
+* dot'n'co  
+* eni editions 
+* biblibre
+* renater
+* booking 
+* webo 
+* nouveaux constructeurs
+* hedera
+* techlib
+* weborama
+
+speciaux 
+
+* oreilly 
+* linuxmag
+* ccn 
+* numentice
