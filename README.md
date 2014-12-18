@@ -39,6 +39,9 @@ Vincent dans la boucle pour le visuel:
 * hedera
 * techlib
 * weborama
+* oscaro
+* afnic  
+
 
 speciaux 
 
